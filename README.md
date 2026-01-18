@@ -1,100 +1,148 @@
-# 📊 Product Analyst Portfolio --- Jamie Christian
+# 📊 Product Analyst Portfolio — Jamie Christian
 
-Welcome to my **end-to-end Product Analytics portfolio** showcasing
-real-world, job-ready projects using **SQL, Python, Excel, Power BI, and
-Tableau**.\
-Each project simulates how product and business analysts operate in real
-companies: framing problems, building datasets, analyzing behavior,
-defining metrics, and driving decisions.
+Welcome to my **end-to-end Product Analytics portfolio**, showcasing real-world analytical workflows using **SQL, Python, Excel, Tableau, and Power BI**.  
+This portfolio demonstrates how I approach problems the way analysts do in industry: from **data → analysis → insights → decisions**.
 
-This portfolio demonstrates: - Business thinking\
-- Analytical rigor\
-- Data storytelling\
-- Technical execution\
-- Decision-focused insights
+Each project is designed to reflect how analytics teams actually operate inside product, growth, strategy, and business organizations.
 
-------------------------------------------------------------------------
+---
 
-## 🔍 What You'll Find Here
+## 🎯 What This Portfolio Demonstrates
 
-Each project includes: - Realistic **CSV datasets** - **SQL queries**
-(joins, aggregations, metric logic) - **Python analysis** (pandas, KPI
-calculations, visuals) - **Excel models** (formulas, scenario logic, KPI
-scorecards) - **Dashboards** (Power BI or Tableau) - Screenshots - Case
-study documentation - Business recommendations
+Across these projects, I demonstrate:
 
-These are structured to mirror **real analyst workflows** --- not toy
-examples.
+- Framing business problems  
+- Exploring and structuring data  
+- Defining meaningful KPIs  
+- Writing SQL for analysis  
+- Using Python for validation and exploration  
+- Building Excel models for forecasting and decision support  
+- Creating dashboards for storytelling  
+- Translating analysis into **clear recommendations**
 
-------------------------------------------------------------------------
+This is not a collection of charts.  
+It is a collection of **decision-oriented analytical work**.
 
-## 📁 Projects
+---
 
-### 1️⃣ Ecommerce Funnel Optimization
+## 📁 Projects Included
 
-**Folder:** `01_ecommerce_funnel_optimization/`\
-Focus: - Conversion funnel analysis\
-- Drop-off diagnostics\
-- Funnel KPIs\
-- Revenue impact modeling
+Each project folder contains:
+- Clean datasets (CSV)  
+- SQL queries  
+- Python scripts  
+- Excel models (with formulas, charts, executive-style structure)  
+- Dashboard files (Tableau / Power BI)  
+- Screenshots  
+- Case study documentation  
+- Business recommendations  
 
-------------------------------------------------------------------------
+### 01_ecommerce_funnel_optimization  
+Focus:
+- Funnel analysis  
+- Drop-off diagnostics  
+- Revenue modeling  
+- Optimization opportunities  
 
-### 2️⃣ StreamFlow --- SaaS Product Analytics
+### 02_streamflow_saas_product_analytics  
+Focus:
+- SaaS-style KPIs  
+- Engagement analysis  
+- Product usage patterns  
+- KPI frameworks  
 
-**Folder:** `02_streamflow_saas_product_analytics/`\
-Focus: - DAU, MRR, revenue trends\
-- Event-based analytics\
-- Product engagement\
-- KPI frameworks
+### 03_user_journey_first_purchase  
+Focus:
+- Behavioral analytics  
+- Time-to-conversion  
+- Journey complexity  
+- Segmentation analysis  
 
-------------------------------------------------------------------------
+### 04_conversion_retention_revenue_kpis  
+Focus:
+- Channel performance  
+- ROI modeling  
+- Budget allocation  
+- Executive KPI reporting  
 
-### 3️⃣ User Journey to First Purchase
+### 05_conversion_funnel_revenue_analysis  
+Focus:
+- Revenue performance  
+- Device & channel insights  
+- Geographic patterns  
+- Business recommendations  
 
-**Folder:** `03_user_journey_first_purchase/`\
-Focus: - Behavioral analytics\
-- Time-to-conversion\
-- Channel differences\
-- Journey complexity
-
-------------------------------------------------------------------------
-
-### 4️⃣ KPI, Retention & ROI Analysis
-
-**Folder:** `04_conversion_retention_revenue_kpis/`\
-Focus: - Channel ROI\
-- Budget allocation\
-- Performance measurement\
-- Executive KPI thinking
-
-------------------------------------------------------------------------
+---
 
 ## 🧰 Tools & Skills Demonstrated
 
--   **SQL:** Joins, aggregations, metric engineering\
--   **Python:** pandas, analytics scripting\
--   **Excel:** Advanced formulas, modeling, scenario logic\
--   **Power BI & Tableau:** Dashboards, storytelling\
--   **Analytics Skills:** Funnel analysis, retention, KPIs, behavioral
-    insights
+**Technical tools**
+- SQL (joins, aggregations, KPI logic)  
+- Python (pandas analysis, validation scripts)  
+- Excel (models, formulas, charts, executive reports)  
+- Tableau & Power BI (dashboards, storytelling)  
 
-------------------------------------------------------------------------
+**Analytical skills**
+- Funnel analysis  
+- KPI development  
+- Performance analysis  
+- User behavior analysis  
+- Business interpretation  
+- Data storytelling  
+- Decision support  
 
-## 🎯 Portfolio Goal
+---
 
-This portfolio demonstrates my ability to: \> Take raw data → structure
-it → analyze it → communicate insights → drive decisions.
+## 💼 Business & FP&A-Oriented Competencies
 
-It is designed to reflect real-world work performed by: - Product
-Analysts\
-- Business Analysts\
-- Data Analysts\
-- Growth Analysts
+These projects explicitly demonstrate competencies used in real organizations:
 
-------------------------------------------------------------------------
+- **Budgeting & Forecasting**  
+  Rolling forecasts, budget vs actual, scenario modeling
+
+- **Financial Analysis**  
+  Variance analysis, trend analysis, driver-based evaluation
+
+- **Strategic Support**  
+  Evaluating opportunities, prioritization, ROI-style thinking
+
+- **Reporting**  
+  Executive-style summaries, structured outputs, management-ready insights
+
+These are embedded directly inside the Excel artifacts and project documentation.
+
+---
+
+## 📌 Simulated Data Disclosure
+
+All datasets used in this portfolio are **simulated but intentionally designed to reflect realistic business patterns**.
+
+This allows me to demonstrate:
+- Real analyst workflows  
+- KPI logic and framing  
+- Modeling and forecasting techniques  
+- Decision-oriented analysis  
+- Professional structure and documentation  
+
+While the data is simulated, the **methods, structure, and thinking mirror how analytics work is performed in real environments**.
+
+---
 
 ## 📬 Contact
 
--   GitHub: You're already here\
--   LinkedIn: *(https://www.linkedin.com/in/jamiechristian2/)*
+If you'd like to connect:
+- LinkedIn: https://www.linkedin.com/in/jamiechristian2/  
+- GitHub: You're here 🙂  
+
+---
+
+## Final note
+
+This portfolio represents how I would contribute as a:
+- Product Analyst  
+- Business Analyst  
+- Data Analyst  
+- Growth Analyst  
+- Strategy / Insights Analyst  
+
+> Turning raw data into clear insights and actionable decisions.
