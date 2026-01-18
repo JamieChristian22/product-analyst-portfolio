@@ -97,4 +97,4 @@ Analysts\
 ## 📬 Contact
 
 -   GitHub: You're already here\
--   LinkedIn: *(add your LinkedIn URL here)*
+-   LinkedIn: *(https://www.linkedin.com/in/jamiechristian2/)*
