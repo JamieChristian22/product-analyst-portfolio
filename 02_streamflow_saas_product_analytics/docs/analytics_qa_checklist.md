@@ -1,0 +1,11 @@
+# Analytics QA Checklist
+- [x] Event schema documented
+- [x] Unique-user denominators used for adoption
+- [x] DAU/MAU logic separated from event volume
+- [x] Activation definition explicitly labeled as a hypothesis/proxy
+- [x] Retention framed as cohort behavior
+- [x] Revenue separated from engagement metrics
+- [x] Plan and channel segmentation included
+- [x] Cancellation treated as a signal, not confirmed churn
+- [x] Simulated-data disclosure included
+- [x] No fabricated PNG dashboards/screenshots included

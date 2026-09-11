@@ -1,0 +1,7 @@
+event_name,unique_users,event_count,user_adoption_pct
+app_open,662,938,0.5605419136325148
+cancel_subscription,397,495,0.336155800169348
+create_project,606,836,0.5131244707874683
+export_clip,650,888,0.550381033022862
+subscribe,547,727,0.46316680779000846
+upload_video,714,1116,0.6045723962743438

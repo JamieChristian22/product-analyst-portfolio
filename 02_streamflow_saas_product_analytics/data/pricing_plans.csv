@@ -1,0 +1,5 @@
+plan_type,monthly_price_usd,target_segment,positioning
+Free,0,Individual,Core product access
+Basic,19,Individual/SMB,Expanded usage and exports
+Pro,49,Professional,Advanced workflows and higher limits
+Enterprise,149,Team/Enterprise,Team-scale access and premium capabilities
