@@ -1,0 +1,12 @@
+# Analytics QA Checklist
+- [x] User-level grain documented
+- [x] Paid conversion denominator defined
+- [x] Retention eligibility limited to paid users
+- [x] Revenue and spend separated
+- [x] CAC and ROI formulas documented
+- [x] ARPPU labeled as proxy
+- [x] Cohort trend included
+- [x] Plan and channel segmentation included
+- [x] Scenario assumptions disclosed
+- [x] Simulated-data disclosure included
+- [x] No fabricated PNG dashboards/screenshots

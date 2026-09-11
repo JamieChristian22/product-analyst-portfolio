@@ -1,0 +1,1801 @@
+spend_date,acquisition_channel,spend_usd
+2025-01-01,Organic Search,53.49
+2025-01-01,Paid Search,363.62
+2025-01-01,Email,58.24
+2025-01-01,Referral,42.92
+2025-01-01,Social,183.68
+2025-01-01,Direct,33.09
+2025-01-02,Organic Search,45.51
+2025-01-02,Paid Search,350.7
+2025-01-02,Email,91.73
+2025-01-02,Referral,60.81
+2025-01-02,Social,221.39
+2025-01-02,Direct,27.06
+2025-01-03,Organic Search,47.81
+2025-01-03,Paid Search,373.98
+2025-01-03,Email,85.42
+2025-01-03,Referral,50.26
+2025-01-03,Social,203.62
+2025-01-03,Direct,26.3
+2025-01-04,Organic Search,39.64
+2025-01-04,Paid Search,333.59
+2025-01-04,Email,79.05
+2025-01-04,Referral,57.55
+2025-01-04,Social,234.52
+2025-01-04,Direct,38.64
+2025-01-05,Organic Search,39.8
+2025-01-05,Paid Search,240.09
+2025-01-05,Email,65.4
+2025-01-05,Referral,49.19
+2025-01-05,Social,200.43
+2025-01-05,Direct,29.81
+2025-01-06,Organic Search,44.67
+2025-01-06,Paid Search,286.96
+2025-01-06,Email,59.98
+2025-01-06,Referral,50.23
+2025-01-06,Social,147.98
+2025-01-06,Direct,31.5
+2025-01-07,Organic Search,55.78
+2025-01-07,Paid Search,340.27
+2025-01-07,Email,67.84
+2025-01-07,Referral,52.85
+2025-01-07,Social,211.17
+2025-01-07,Direct,26.67
+2025-01-08,Organic Search,48.61
+2025-01-08,Paid Search,289.82
+2025-01-08,Email,62.91
+2025-01-08,Referral,54.81
+2025-01-08,Social,192.83
+2025-01-08,Direct,43.87
+2025-01-09,Organic Search,42.63
+2025-01-09,Paid Search,326.54
+2025-01-09,Email,103.1
+2025-01-09,Referral,48.92
+2025-01-09,Social,169.91
+2025-01-09,Direct,28.54
+2025-01-10,Organic Search,49.62
+2025-01-10,Paid Search,320.67
+2025-01-10,Email,63.96
+2025-01-10,Referral,63.94
+2025-01-10,Social,160.19
+2025-01-10,Direct,28.72
+2025-01-11,Organic Search,32.73
+2025-01-11,Paid Search,221.81
+2025-01-11,Email,79.57
+2025-01-11,Referral,60.43
+2025-01-11,Social,189.4
+2025-01-11,Direct,25.84
+2025-01-12,Organic Search,34.58
+2025-01-12,Paid Search,372.93
+2025-01-12,Email,68.49
+2025-01-12,Referral,57.66
+2025-01-12,Social,160.96
+2025-01-12,Direct,27.13
+2025-01-13,Organic Search,38.97
+2025-01-13,Paid Search,315.45
+2025-01-13,Email,74.9
+2025-01-13,Referral,68.63
+2025-01-13,Social,182.43
+2025-01-13,Direct,31.78
+2025-01-14,Organic Search,51.51
+2025-01-14,Paid Search,331.25
+2025-01-14,Email,80.01
+2025-01-14,Referral,46.92
+2025-01-14,Social,159.39
+2025-01-14,Direct,30.87
+2025-01-15,Organic Search,47.45
+2025-01-15,Paid Search,295.04
+2025-01-15,Email,57.92
+2025-01-15,Referral,62.5
+2025-01-15,Social,187.09
+2025-01-15,Direct,20.88
+2025-01-16,Organic Search,43.14
+2025-01-16,Paid Search,221.22
+2025-01-16,Email,92.76
+2025-01-16,Referral,45.74
+2025-01-16,Social,209.29
+2025-01-16,Direct,36.44
+2025-01-17,Organic Search,43.67
+2025-01-17,Paid Search,406.97
+2025-01-17,Email,53.98
+2025-01-17,Referral,59.83
+2025-01-17,Social,183.67
+2025-01-17,Direct,33.2
+2025-01-18,Organic Search,43.75
+2025-01-18,Paid Search,282.8
+2025-01-18,Email,66.36
+2025-01-18,Referral,67.08
+2025-01-18,Social,158.76
+2025-01-18,Direct,22.87
+2025-01-19,Organic Search,41.49
+2025-01-19,Paid Search,314.05
+2025-01-19,Email,88.69
+2025-01-19,Referral,48.85
+2025-01-19,Social,144.65
+2025-01-19,Direct,33.77
+2025-01-20,Organic Search,53.87
+2025-01-20,Paid Search,278.74
+2025-01-20,Email,60.15
+2025-01-20,Referral,46.95
+2025-01-20,Social,189.64
+2025-01-20,Direct,35.65
+2025-01-21,Organic Search,56.21
+2025-01-21,Paid Search,315.05
+2025-01-21,Email,55.01
+2025-01-21,Referral,44.85
+2025-01-21,Social,150.62
+2025-01-21,Direct,26.23
+2025-01-22,Organic Search,35.44
+2025-01-22,Paid Search,334.6
+2025-01-22,Email,56.72
+2025-01-22,Referral,58.0
+2025-01-22,Social,140.81
+2025-01-22,Direct,27.17
+2025-01-23,Organic Search,36.49
+2025-01-23,Paid Search,287.85
+2025-01-23,Email,102.79
+2025-01-23,Referral,48.24
+2025-01-23,Social,184.76
+2025-01-23,Direct,39.25
+2025-01-24,Organic Search,56.34
+2025-01-24,Paid Search,256.09
+2025-01-24,Email,77.52
+2025-01-24,Referral,47.09
+2025-01-24,Social,172.83
+2025-01-24,Direct,25.71
+2025-01-25,Organic Search,31.22
+2025-01-25,Paid Search,271.96
+2025-01-25,Email,70.74
+2025-01-25,Referral,58.17
+2025-01-25,Social,207.36
+2025-01-25,Direct,24.4
+2025-01-26,Organic Search,42.77
+2025-01-26,Paid Search,242.35
+2025-01-26,Email,90.08
+2025-01-26,Referral,59.06
+2025-01-26,Social,229.86
+2025-01-26,Direct,29.44
+2025-01-27,Organic Search,46.5
+2025-01-27,Paid Search,255.75
+2025-01-27,Email,76.92
+2025-01-27,Referral,52.22
+2025-01-27,Social,220.85
+2025-01-27,Direct,37.25
+2025-01-28,Organic Search,34.43
+2025-01-28,Paid Search,375.37
+2025-01-28,Email,78.49
+2025-01-28,Referral,66.87
+2025-01-28,Social,229.73
+2025-01-28,Direct,31.48
+2025-01-29,Organic Search,42.36
+2025-01-29,Paid Search,416.15
+2025-01-29,Email,89.08
+2025-01-29,Referral,70.44
+2025-01-29,Social,190.52
+2025-01-29,Direct,32.62
+2025-01-30,Organic Search,38.63
+2025-01-30,Paid Search,274.73
+2025-01-30,Email,78.04
+2025-01-30,Referral,53.64
+2025-01-30,Social,184.1
+2025-01-30,Direct,31.94
+2025-01-31,Organic Search,42.63
+2025-01-31,Paid Search,308.06
+2025-01-31,Email,69.87
+2025-01-31,Referral,53.09
+2025-01-31,Social,224.29
+2025-01-31,Direct,28.48
+2025-02-01,Organic Search,49.57
+2025-02-01,Paid Search,282.65
+2025-02-01,Email,104.81
+2025-02-01,Referral,55.18
+2025-02-01,Social,179.13
+2025-02-01,Direct,24.74
+2025-02-02,Organic Search,43.99
+2025-02-02,Paid Search,363.26
+2025-02-02,Email,79.87
+2025-02-02,Referral,48.12
+2025-02-02,Social,201.31
+2025-02-02,Direct,36.41
+2025-02-03,Organic Search,42.3
+2025-02-03,Paid Search,317.08
+2025-02-03,Email,77.21
+2025-02-03,Referral,47.67
+2025-02-03,Social,207.13
+2025-02-03,Direct,24.8
+2025-02-04,Organic Search,40.75
+2025-02-04,Paid Search,283.09
+2025-02-04,Email,59.49
+2025-02-04,Referral,43.98
+2025-02-04,Social,247.61
+2025-02-04,Direct,30.72
+2025-02-05,Organic Search,49.67
+2025-02-05,Paid Search,334.25
+2025-02-05,Email,73.44
+2025-02-05,Referral,53.82
+2025-02-05,Social,169.06
+2025-02-05,Direct,24.98
+2025-02-06,Organic Search,32.95
+2025-02-06,Paid Search,353.8
+2025-02-06,Email,83.48
+2025-02-06,Referral,46.52
+2025-02-06,Social,200.22
+2025-02-06,Direct,31.24
+2025-02-07,Organic Search,42.03
+2025-02-07,Paid Search,350.26
+2025-02-07,Email,74.38
+2025-02-07,Referral,50.98
+2025-02-07,Social,252.72
+2025-02-07,Direct,27.68
+2025-02-08,Organic Search,50.52
+2025-02-08,Paid Search,198.18
+2025-02-08,Email,73.24
+2025-02-08,Referral,74.36
+2025-02-08,Social,177.26
+2025-02-08,Direct,28.59
+2025-02-09,Organic Search,40.2
+2025-02-09,Paid Search,325.89
+2025-02-09,Email,88.86
+2025-02-09,Referral,47.39
+2025-02-09,Social,193.1
+2025-02-09,Direct,29.24
+2025-02-10,Organic Search,41.19
+2025-02-10,Paid Search,282.57
+2025-02-10,Email,89.85
+2025-02-10,Referral,46.1
+2025-02-10,Social,223.58
+2025-02-10,Direct,29.04
+2025-02-11,Organic Search,52.95
+2025-02-11,Paid Search,233.83
+2025-02-11,Email,100.23
+2025-02-11,Referral,61.61
+2025-02-11,Social,230.09
+2025-02-11,Direct,35.51
+2025-02-12,Organic Search,44.85
+2025-02-12,Paid Search,367.44
+2025-02-12,Email,80.71
+2025-02-12,Referral,47.43
+2025-02-12,Social,210.31
+2025-02-12,Direct,34.9
+2025-02-13,Organic Search,41.67
+2025-02-13,Paid Search,417.61
+2025-02-13,Email,88.47
+2025-02-13,Referral,63.86
+2025-02-13,Social,182.78
+2025-02-13,Direct,29.33
+2025-02-14,Organic Search,54.4
+2025-02-14,Paid Search,320.01
+2025-02-14,Email,62.94
+2025-02-14,Referral,49.02
+2025-02-14,Social,201.95
+2025-02-14,Direct,33.6
+2025-02-15,Organic Search,45.98
+2025-02-15,Paid Search,219.82
+2025-02-15,Email,72.7
+2025-02-15,Referral,58.68
+2025-02-15,Social,195.02
+2025-02-15,Direct,19.29
+2025-02-16,Organic Search,53.18
+2025-02-16,Paid Search,331.81
+2025-02-16,Email,70.78
+2025-02-16,Referral,44.39
+2025-02-16,Social,172.99
+2025-02-16,Direct,35.93
+2025-02-17,Organic Search,43.18
+2025-02-17,Paid Search,366.21
+2025-02-17,Email,83.31
+2025-02-17,Referral,54.66
+2025-02-17,Social,182.49
+2025-02-17,Direct,29.94
+2025-02-18,Organic Search,54.01
+2025-02-18,Paid Search,392.95
+2025-02-18,Email,75.16
+2025-02-18,Referral,62.92
+2025-02-18,Social,217.93
+2025-02-18,Direct,21.17
+2025-02-19,Organic Search,50.75
+2025-02-19,Paid Search,177.33
+2025-02-19,Email,59.46
+2025-02-19,Referral,71.36
+2025-02-19,Social,211.13
+2025-02-19,Direct,33.95
+2025-02-20,Organic Search,34.19
+2025-02-20,Paid Search,372.17
+2025-02-20,Email,71.94
+2025-02-20,Referral,43.73
+2025-02-20,Social,217.91
+2025-02-20,Direct,35.4
+2025-02-21,Organic Search,40.69
+2025-02-21,Paid Search,275.64
+2025-02-21,Email,79.37
+2025-02-21,Referral,54.07
+2025-02-21,Social,200.04
+2025-02-21,Direct,27.68
+2025-02-22,Organic Search,45.02
+2025-02-22,Paid Search,301.2
+2025-02-22,Email,75.99
+2025-02-22,Referral,36.68
+2025-02-22,Social,207.52
+2025-02-22,Direct,31.51
+2025-02-23,Organic Search,49.69
+2025-02-23,Paid Search,246.86
+2025-02-23,Email,89.05
+2025-02-23,Referral,61.17
+2025-02-23,Social,163.53
+2025-02-23,Direct,30.91
+2025-02-24,Organic Search,36.67
+2025-02-24,Paid Search,327.96
+2025-02-24,Email,81.07
+2025-02-24,Referral,55.9
+2025-02-24,Social,195.99
+2025-02-24,Direct,32.88
+2025-02-25,Organic Search,43.27
+2025-02-25,Paid Search,334.46
+2025-02-25,Email,72.54
+2025-02-25,Referral,72.12
+2025-02-25,Social,178.12
+2025-02-25,Direct,35.81
+2025-02-26,Organic Search,39.33
+2025-02-26,Paid Search,284.23
+2025-02-26,Email,81.27
+2025-02-26,Referral,49.44
+2025-02-26,Social,169.57
+2025-02-26,Direct,29.41
+2025-02-27,Organic Search,49.27
+2025-02-27,Paid Search,333.37
+2025-02-27,Email,49.14
+2025-02-27,Referral,40.79
+2025-02-27,Social,235.87
+2025-02-27,Direct,32.3
+2025-02-28,Organic Search,42.26
+2025-02-28,Paid Search,159.53
+2025-02-28,Email,78.3
+2025-02-28,Referral,56.89
+2025-02-28,Social,115.81
+2025-02-28,Direct,25.42
+2025-03-01,Organic Search,26.29
+2025-03-01,Paid Search,248.16
+2025-03-01,Email,83.66
+2025-03-01,Referral,52.45
+2025-03-01,Social,255.28
+2025-03-01,Direct,35.8
+2025-03-02,Organic Search,42.16
+2025-03-02,Paid Search,369.49
+2025-03-02,Email,80.06
+2025-03-02,Referral,58.91
+2025-03-02,Social,165.93
+2025-03-02,Direct,35.24
+2025-03-03,Organic Search,46.83
+2025-03-03,Paid Search,357.08
+2025-03-03,Email,82.6
+2025-03-03,Referral,52.92
+2025-03-03,Social,199.51
+2025-03-03,Direct,25.96
+2025-03-04,Organic Search,60.45
+2025-03-04,Paid Search,298.33
+2025-03-04,Email,83.44
+2025-03-04,Referral,56.9
+2025-03-04,Social,179.63
+2025-03-04,Direct,19.38
+2025-03-05,Organic Search,33.71
+2025-03-05,Paid Search,280.84
+2025-03-05,Email,78.82
+2025-03-05,Referral,60.38
+2025-03-05,Social,206.06
+2025-03-05,Direct,30.5
+2025-03-06,Organic Search,44.39
+2025-03-06,Paid Search,351.69
+2025-03-06,Email,78.62
+2025-03-06,Referral,53.84
+2025-03-06,Social,210.71
+2025-03-06,Direct,23.54
+2025-03-07,Organic Search,35.25
+2025-03-07,Paid Search,376.72
+2025-03-07,Email,91.16
+2025-03-07,Referral,65.3
+2025-03-07,Social,198.79
+2025-03-07,Direct,23.04
+2025-03-08,Organic Search,48.38
+2025-03-08,Paid Search,242.95
+2025-03-08,Email,81.38
+2025-03-08,Referral,50.35
+2025-03-08,Social,141.36
+2025-03-08,Direct,22.31
+2025-03-09,Organic Search,54.78
+2025-03-09,Paid Search,321.45
+2025-03-09,Email,60.67
+2025-03-09,Referral,36.36
+2025-03-09,Social,221.5
+2025-03-09,Direct,30.59
+2025-03-10,Organic Search,40.52
+2025-03-10,Paid Search,322.08
+2025-03-10,Email,82.11
+2025-03-10,Referral,52.83
+2025-03-10,Social,169.16
+2025-03-10,Direct,27.29
+2025-03-11,Organic Search,47.92
+2025-03-11,Paid Search,309.51
+2025-03-11,Email,75.3
+2025-03-11,Referral,64.31
+2025-03-11,Social,133.13
+2025-03-11,Direct,29.26
+2025-03-12,Organic Search,45.47
+2025-03-12,Paid Search,312.02
+2025-03-12,Email,64.92
+2025-03-12,Referral,59.06
+2025-03-12,Social,154.54
+2025-03-12,Direct,26.16
+2025-03-13,Organic Search,46.55
+2025-03-13,Paid Search,270.32
+2025-03-13,Email,98.79
+2025-03-13,Referral,53.41
+2025-03-13,Social,189.25
+2025-03-13,Direct,36.28
+2025-03-14,Organic Search,52.53
+2025-03-14,Paid Search,261.19
+2025-03-14,Email,77.65
+2025-03-14,Referral,51.23
+2025-03-14,Social,177.12
+2025-03-14,Direct,26.54
+2025-03-15,Organic Search,44.38
+2025-03-15,Paid Search,266.31
+2025-03-15,Email,101.03
+2025-03-15,Referral,48.73
+2025-03-15,Social,161.0
+2025-03-15,Direct,27.9
+2025-03-16,Organic Search,38.92
+2025-03-16,Paid Search,307.4
+2025-03-16,Email,54.35
+2025-03-16,Referral,38.16
+2025-03-16,Social,196.86
+2025-03-16,Direct,27.73
+2025-03-17,Organic Search,42.3
+2025-03-17,Paid Search,286.12
+2025-03-17,Email,66.9
+2025-03-17,Referral,64.7
+2025-03-17,Social,165.89
+2025-03-17,Direct,24.86
+2025-03-18,Organic Search,41.34
+2025-03-18,Paid Search,305.41
+2025-03-18,Email,66.61
+2025-03-18,Referral,47.9
+2025-03-18,Social,257.55
+2025-03-18,Direct,30.98
+2025-03-19,Organic Search,51.62
+2025-03-19,Paid Search,354.77
+2025-03-19,Email,72.56
+2025-03-19,Referral,58.95
+2025-03-19,Social,157.16
+2025-03-19,Direct,31.47
+2025-03-20,Organic Search,51.64
+2025-03-20,Paid Search,323.11
+2025-03-20,Email,80.99
+2025-03-20,Referral,45.22
+2025-03-20,Social,203.13
+2025-03-20,Direct,24.12
+2025-03-21,Organic Search,52.43
+2025-03-21,Paid Search,151.54
+2025-03-21,Email,67.08
+2025-03-21,Referral,59.75
+2025-03-21,Social,219.64
+2025-03-21,Direct,29.76
+2025-03-22,Organic Search,53.76
+2025-03-22,Paid Search,228.53
+2025-03-22,Email,84.49
+2025-03-22,Referral,54.66
+2025-03-22,Social,190.99
+2025-03-22,Direct,19.12
+2025-03-23,Organic Search,39.25
+2025-03-23,Paid Search,282.85
+2025-03-23,Email,68.0
+2025-03-23,Referral,50.54
+2025-03-23,Social,134.45
+2025-03-23,Direct,34.11
+2025-03-24,Organic Search,45.59
+2025-03-24,Paid Search,281.76
+2025-03-24,Email,79.76
+2025-03-24,Referral,43.52
+2025-03-24,Social,229.04
+2025-03-24,Direct,29.73
+2025-03-25,Organic Search,42.13
+2025-03-25,Paid Search,257.59
+2025-03-25,Email,105.07
+2025-03-25,Referral,59.86
+2025-03-25,Social,166.95
+2025-03-25,Direct,39.49
+2025-03-26,Organic Search,42.99
+2025-03-26,Paid Search,385.61
+2025-03-26,Email,94.18
+2025-03-26,Referral,36.37
+2025-03-26,Social,185.6
+2025-03-26,Direct,38.61
+2025-03-27,Organic Search,49.06
+2025-03-27,Paid Search,263.96
+2025-03-27,Email,60.19
+2025-03-27,Referral,59.65
+2025-03-27,Social,250.27
+2025-03-27,Direct,29.23
+2025-03-28,Organic Search,44.72
+2025-03-28,Paid Search,353.48
+2025-03-28,Email,85.89
+2025-03-28,Referral,40.16
+2025-03-28,Social,247.53
+2025-03-28,Direct,24.08
+2025-03-29,Organic Search,43.26
+2025-03-29,Paid Search,274.59
+2025-03-29,Email,57.87
+2025-03-29,Referral,64.31
+2025-03-29,Social,138.22
+2025-03-29,Direct,27.15
+2025-03-30,Organic Search,65.6
+2025-03-30,Paid Search,292.76
+2025-03-30,Email,49.21
+2025-03-30,Referral,53.76
+2025-03-30,Social,181.51
+2025-03-30,Direct,36.88
+2025-03-31,Organic Search,41.65
+2025-03-31,Paid Search,327.5
+2025-03-31,Email,82.1
+2025-03-31,Referral,57.91
+2025-03-31,Social,219.15
+2025-03-31,Direct,26.78
+2025-04-01,Organic Search,52.05
+2025-04-01,Paid Search,292.57
+2025-04-01,Email,76.24
+2025-04-01,Referral,64.05
+2025-04-01,Social,195.45
+2025-04-01,Direct,24.03
+2025-04-02,Organic Search,41.64
+2025-04-02,Paid Search,286.78
+2025-04-02,Email,67.89
+2025-04-02,Referral,55.38
+2025-04-02,Social,224.46
+2025-04-02,Direct,30.56
+2025-04-03,Organic Search,62.35
+2025-04-03,Paid Search,277.38
+2025-04-03,Email,101.93
+2025-04-03,Referral,59.56
+2025-04-03,Social,243.42
+2025-04-03,Direct,37.02
+2025-04-04,Organic Search,45.86
+2025-04-04,Paid Search,286.73
+2025-04-04,Email,99.16
+2025-04-04,Referral,59.32
+2025-04-04,Social,187.49
+2025-04-04,Direct,31.32
+2025-04-05,Organic Search,46.95
+2025-04-05,Paid Search,345.67
+2025-04-05,Email,81.73
+2025-04-05,Referral,63.4
+2025-04-05,Social,248.44
+2025-04-05,Direct,29.36
+2025-04-06,Organic Search,47.92
+2025-04-06,Paid Search,316.05
+2025-04-06,Email,81.44
+2025-04-06,Referral,63.98
+2025-04-06,Social,199.43
+2025-04-06,Direct,32.22
+2025-04-07,Organic Search,52.0
+2025-04-07,Paid Search,324.18
+2025-04-07,Email,82.11
+2025-04-07,Referral,46.35
+2025-04-07,Social,192.95
+2025-04-07,Direct,38.38
+2025-04-08,Organic Search,43.53
+2025-04-08,Paid Search,327.18
+2025-04-08,Email,74.78
+2025-04-08,Referral,61.51
+2025-04-08,Social,144.31
+2025-04-08,Direct,28.06
+2025-04-09,Organic Search,60.36
+2025-04-09,Paid Search,380.23
+2025-04-09,Email,81.56
+2025-04-09,Referral,50.24
+2025-04-09,Social,233.61
+2025-04-09,Direct,24.61
+2025-04-10,Organic Search,49.33
+2025-04-10,Paid Search,268.63
+2025-04-10,Email,71.59
+2025-04-10,Referral,50.32
+2025-04-10,Social,185.34
+2025-04-10,Direct,31.9
+2025-04-11,Organic Search,51.13
+2025-04-11,Paid Search,468.92
+2025-04-11,Email,55.96
+2025-04-11,Referral,55.75
+2025-04-11,Social,249.58
+2025-04-11,Direct,39.63
+2025-04-12,Organic Search,46.41
+2025-04-12,Paid Search,286.81
+2025-04-12,Email,78.96
+2025-04-12,Referral,49.91
+2025-04-12,Social,213.49
+2025-04-12,Direct,17.94
+2025-04-13,Organic Search,38.85
+2025-04-13,Paid Search,265.96
+2025-04-13,Email,50.98
+2025-04-13,Referral,56.5
+2025-04-13,Social,144.07
+2025-04-13,Direct,23.75
+2025-04-14,Organic Search,41.02
+2025-04-14,Paid Search,365.14
+2025-04-14,Email,81.74
+2025-04-14,Referral,66.48
+2025-04-14,Social,150.6
+2025-04-14,Direct,28.47
+2025-04-15,Organic Search,35.53
+2025-04-15,Paid Search,278.6
+2025-04-15,Email,77.73
+2025-04-15,Referral,40.58
+2025-04-15,Social,189.29
+2025-04-15,Direct,29.43
+2025-04-16,Organic Search,51.49
+2025-04-16,Paid Search,361.92
+2025-04-16,Email,77.0
+2025-04-16,Referral,35.46
+2025-04-16,Social,105.69
+2025-04-16,Direct,27.35
+2025-04-17,Organic Search,43.67
+2025-04-17,Paid Search,316.35
+2025-04-17,Email,68.0
+2025-04-17,Referral,63.86
+2025-04-17,Social,178.05
+2025-04-17,Direct,36.0
+2025-04-18,Organic Search,43.88
+2025-04-18,Paid Search,320.09
+2025-04-18,Email,73.63
+2025-04-18,Referral,53.41
+2025-04-18,Social,240.51
+2025-04-18,Direct,33.11
+2025-04-19,Organic Search,48.46
+2025-04-19,Paid Search,255.99
+2025-04-19,Email,84.19
+2025-04-19,Referral,59.66
+2025-04-19,Social,187.82
+2025-04-19,Direct,38.4
+2025-04-20,Organic Search,40.01
+2025-04-20,Paid Search,211.49
+2025-04-20,Email,68.76
+2025-04-20,Referral,64.55
+2025-04-20,Social,208.04
+2025-04-20,Direct,25.56
+2025-04-21,Organic Search,52.33
+2025-04-21,Paid Search,392.29
+2025-04-21,Email,71.08
+2025-04-21,Referral,50.32
+2025-04-21,Social,223.18
+2025-04-21,Direct,27.53
+2025-04-22,Organic Search,46.87
+2025-04-22,Paid Search,301.97
+2025-04-22,Email,74.18
+2025-04-22,Referral,47.65
+2025-04-22,Social,187.76
+2025-04-22,Direct,30.9
+2025-04-23,Organic Search,49.17
+2025-04-23,Paid Search,363.22
+2025-04-23,Email,78.02
+2025-04-23,Referral,52.66
+2025-04-23,Social,200.84
+2025-04-23,Direct,31.21
+2025-04-24,Organic Search,52.53
+2025-04-24,Paid Search,309.24
+2025-04-24,Email,81.37
+2025-04-24,Referral,78.18
+2025-04-24,Social,164.31
+2025-04-24,Direct,24.89
+2025-04-25,Organic Search,39.96
+2025-04-25,Paid Search,264.09
+2025-04-25,Email,69.78
+2025-04-25,Referral,66.14
+2025-04-25,Social,208.21
+2025-04-25,Direct,22.57
+2025-04-26,Organic Search,49.16
+2025-04-26,Paid Search,384.96
+2025-04-26,Email,72.77
+2025-04-26,Referral,42.18
+2025-04-26,Social,157.92
+2025-04-26,Direct,32.54
+2025-04-27,Organic Search,43.94
+2025-04-27,Paid Search,292.45
+2025-04-27,Email,74.84
+2025-04-27,Referral,65.71
+2025-04-27,Social,157.09
+2025-04-27,Direct,35.07
+2025-04-28,Organic Search,38.75
+2025-04-28,Paid Search,235.59
+2025-04-28,Email,77.83
+2025-04-28,Referral,53.13
+2025-04-28,Social,189.86
+2025-04-28,Direct,26.84
+2025-04-29,Organic Search,43.41
+2025-04-29,Paid Search,230.96
+2025-04-29,Email,72.04
+2025-04-29,Referral,40.97
+2025-04-29,Social,179.09
+2025-04-29,Direct,24.98
+2025-04-30,Organic Search,37.77
+2025-04-30,Paid Search,280.43
+2025-04-30,Email,62.78
+2025-04-30,Referral,54.01
+2025-04-30,Social,200.86
+2025-04-30,Direct,32.89
+2025-05-01,Organic Search,39.75
+2025-05-01,Paid Search,330.16
+2025-05-01,Email,94.12
+2025-05-01,Referral,54.52
+2025-05-01,Social,173.2
+2025-05-01,Direct,31.76
+2025-05-02,Organic Search,39.54
+2025-05-02,Paid Search,340.79
+2025-05-02,Email,93.79
+2025-05-02,Referral,59.09
+2025-05-02,Social,135.99
+2025-05-02,Direct,31.65
+2025-05-03,Organic Search,43.39
+2025-05-03,Paid Search,325.27
+2025-05-03,Email,99.84
+2025-05-03,Referral,53.54
+2025-05-03,Social,138.45
+2025-05-03,Direct,26.36
+2025-05-04,Organic Search,54.22
+2025-05-04,Paid Search,358.56
+2025-05-04,Email,94.29
+2025-05-04,Referral,56.39
+2025-05-04,Social,127.95
+2025-05-04,Direct,23.64
+2025-05-05,Organic Search,43.08
+2025-05-05,Paid Search,387.84
+2025-05-05,Email,83.26
+2025-05-05,Referral,61.69
+2025-05-05,Social,216.87
+2025-05-05,Direct,29.92
+2025-05-06,Organic Search,49.3
+2025-05-06,Paid Search,357.21
+2025-05-06,Email,74.26
+2025-05-06,Referral,71.78
+2025-05-06,Social,185.71
+2025-05-06,Direct,27.48
+2025-05-07,Organic Search,42.58
+2025-05-07,Paid Search,304.97
+2025-05-07,Email,75.16
+2025-05-07,Referral,62.99
+2025-05-07,Social,190.11
+2025-05-07,Direct,30.0
+2025-05-08,Organic Search,39.67
+2025-05-08,Paid Search,254.96
+2025-05-08,Email,87.13
+2025-05-08,Referral,43.93
+2025-05-08,Social,138.57
+2025-05-08,Direct,28.32
+2025-05-09,Organic Search,59.79
+2025-05-09,Paid Search,234.52
+2025-05-09,Email,87.64
+2025-05-09,Referral,55.5
+2025-05-09,Social,189.7
+2025-05-09,Direct,28.4
+2025-05-10,Organic Search,37.55
+2025-05-10,Paid Search,207.98
+2025-05-10,Email,76.75
+2025-05-10,Referral,47.6
+2025-05-10,Social,177.7
+2025-05-10,Direct,33.49
+2025-05-11,Organic Search,38.62
+2025-05-11,Paid Search,293.64
+2025-05-11,Email,82.8
+2025-05-11,Referral,61.22
+2025-05-11,Social,230.46
+2025-05-11,Direct,25.5
+2025-05-12,Organic Search,48.39
+2025-05-12,Paid Search,371.47
+2025-05-12,Email,61.94
+2025-05-12,Referral,55.91
+2025-05-12,Social,162.43
+2025-05-12,Direct,34.69
+2025-05-13,Organic Search,57.2
+2025-05-13,Paid Search,390.42
+2025-05-13,Email,74.04
+2025-05-13,Referral,44.43
+2025-05-13,Social,204.56
+2025-05-13,Direct,33.3
+2025-05-14,Organic Search,60.23
+2025-05-14,Paid Search,271.4
+2025-05-14,Email,66.22
+2025-05-14,Referral,49.07
+2025-05-14,Social,210.62
+2025-05-14,Direct,29.48
+2025-05-15,Organic Search,26.85
+2025-05-15,Paid Search,348.82
+2025-05-15,Email,74.78
+2025-05-15,Referral,56.67
+2025-05-15,Social,155.73
+2025-05-15,Direct,29.87
+2025-05-16,Organic Search,45.36
+2025-05-16,Paid Search,277.63
+2025-05-16,Email,67.67
+2025-05-16,Referral,54.8
+2025-05-16,Social,233.49
+2025-05-16,Direct,28.96
+2025-05-17,Organic Search,44.29
+2025-05-17,Paid Search,305.58
+2025-05-17,Email,93.32
+2025-05-17,Referral,54.39
+2025-05-17,Social,181.28
+2025-05-17,Direct,38.03
+2025-05-18,Organic Search,38.79
+2025-05-18,Paid Search,383.36
+2025-05-18,Email,79.39
+2025-05-18,Referral,51.05
+2025-05-18,Social,183.22
+2025-05-18,Direct,24.15
+2025-05-19,Organic Search,41.24
+2025-05-19,Paid Search,347.67
+2025-05-19,Email,76.23
+2025-05-19,Referral,50.78
+2025-05-19,Social,132.92
+2025-05-19,Direct,34.58
+2025-05-20,Organic Search,62.05
+2025-05-20,Paid Search,343.83
+2025-05-20,Email,73.96
+2025-05-20,Referral,62.41
+2025-05-20,Social,124.06
+2025-05-20,Direct,35.42
+2025-05-21,Organic Search,36.75
+2025-05-21,Paid Search,347.53
+2025-05-21,Email,75.41
+2025-05-21,Referral,46.22
+2025-05-21,Social,135.05
+2025-05-21,Direct,28.91
+2025-05-22,Organic Search,46.48
+2025-05-22,Paid Search,317.72
+2025-05-22,Email,88.66
+2025-05-22,Referral,51.27
+2025-05-22,Social,217.29
+2025-05-22,Direct,34.5
+2025-05-23,Organic Search,46.96
+2025-05-23,Paid Search,360.03
+2025-05-23,Email,96.21
+2025-05-23,Referral,51.49
+2025-05-23,Social,222.29
+2025-05-23,Direct,37.37
+2025-05-24,Organic Search,29.96
+2025-05-24,Paid Search,331.07
+2025-05-24,Email,78.09
+2025-05-24,Referral,53.06
+2025-05-24,Social,166.13
+2025-05-24,Direct,28.19
+2025-05-25,Organic Search,50.96
+2025-05-25,Paid Search,224.09
+2025-05-25,Email,87.7
+2025-05-25,Referral,62.28
+2025-05-25,Social,220.11
+2025-05-25,Direct,32.46
+2025-05-26,Organic Search,44.49
+2025-05-26,Paid Search,313.87
+2025-05-26,Email,76.87
+2025-05-26,Referral,56.86
+2025-05-26,Social,177.49
+2025-05-26,Direct,34.25
+2025-05-27,Organic Search,45.62
+2025-05-27,Paid Search,278.28
+2025-05-27,Email,69.69
+2025-05-27,Referral,54.07
+2025-05-27,Social,214.17
+2025-05-27,Direct,25.2
+2025-05-28,Organic Search,46.85
+2025-05-28,Paid Search,340.67
+2025-05-28,Email,65.76
+2025-05-28,Referral,43.06
+2025-05-28,Social,203.03
+2025-05-28,Direct,36.03
+2025-05-29,Organic Search,42.39
+2025-05-29,Paid Search,357.66
+2025-05-29,Email,66.24
+2025-05-29,Referral,45.14
+2025-05-29,Social,212.44
+2025-05-29,Direct,30.82
+2025-05-30,Organic Search,39.82
+2025-05-30,Paid Search,256.02
+2025-05-30,Email,103.22
+2025-05-30,Referral,51.88
+2025-05-30,Social,191.04
+2025-05-30,Direct,26.87
+2025-05-31,Organic Search,43.45
+2025-05-31,Paid Search,356.98
+2025-05-31,Email,65.48
+2025-05-31,Referral,64.23
+2025-05-31,Social,162.78
+2025-05-31,Direct,33.25
+2025-06-01,Organic Search,35.0
+2025-06-01,Paid Search,344.86
+2025-06-01,Email,79.62
+2025-06-01,Referral,49.35
+2025-06-01,Social,228.77
+2025-06-01,Direct,31.56
+2025-06-02,Organic Search,34.37
+2025-06-02,Paid Search,303.38
+2025-06-02,Email,95.36
+2025-06-02,Referral,50.87
+2025-06-02,Social,190.35
+2025-06-02,Direct,30.79
+2025-06-03,Organic Search,35.67
+2025-06-03,Paid Search,418.01
+2025-06-03,Email,81.31
+2025-06-03,Referral,57.09
+2025-06-03,Social,163.75
+2025-06-03,Direct,19.99
+2025-06-04,Organic Search,43.46
+2025-06-04,Paid Search,294.87
+2025-06-04,Email,63.1
+2025-06-04,Referral,52.36
+2025-06-04,Social,175.09
+2025-06-04,Direct,29.22
+2025-06-05,Organic Search,45.1
+2025-06-05,Paid Search,348.46
+2025-06-05,Email,55.5
+2025-06-05,Referral,39.45
+2025-06-05,Social,179.37
+2025-06-05,Direct,26.88
+2025-06-06,Organic Search,44.02
+2025-06-06,Paid Search,236.97
+2025-06-06,Email,68.26
+2025-06-06,Referral,55.21
+2025-06-06,Social,208.27
+2025-06-06,Direct,30.2
+2025-06-07,Organic Search,48.77
+2025-06-07,Paid Search,321.9
+2025-06-07,Email,71.44
+2025-06-07,Referral,50.23
+2025-06-07,Social,159.47
+2025-06-07,Direct,33.4
+2025-06-08,Organic Search,48.93
+2025-06-08,Paid Search,285.07
+2025-06-08,Email,82.17
+2025-06-08,Referral,48.86
+2025-06-08,Social,112.8
+2025-06-08,Direct,33.16
+2025-06-09,Organic Search,57.55
+2025-06-09,Paid Search,371.41
+2025-06-09,Email,82.59
+2025-06-09,Referral,52.52
+2025-06-09,Social,160.57
+2025-06-09,Direct,25.4
+2025-06-10,Organic Search,31.06
+2025-06-10,Paid Search,251.1
+2025-06-10,Email,92.3
+2025-06-10,Referral,58.48
+2025-06-10,Social,222.45
+2025-06-10,Direct,28.86
+2025-06-11,Organic Search,39.08
+2025-06-11,Paid Search,305.77
+2025-06-11,Email,82.29
+2025-06-11,Referral,43.51
+2025-06-11,Social,159.12
+2025-06-11,Direct,38.71
+2025-06-12,Organic Search,42.07
+2025-06-12,Paid Search,338.52
+2025-06-12,Email,84.79
+2025-06-12,Referral,55.73
+2025-06-12,Social,189.67
+2025-06-12,Direct,32.08
+2025-06-13,Organic Search,49.26
+2025-06-13,Paid Search,211.55
+2025-06-13,Email,77.55
+2025-06-13,Referral,58.59
+2025-06-13,Social,166.08
+2025-06-13,Direct,29.46
+2025-06-14,Organic Search,34.33
+2025-06-14,Paid Search,296.56
+2025-06-14,Email,77.29
+2025-06-14,Referral,55.17
+2025-06-14,Social,165.71
+2025-06-14,Direct,21.24
+2025-06-15,Organic Search,53.44
+2025-06-15,Paid Search,293.44
+2025-06-15,Email,76.46
+2025-06-15,Referral,50.71
+2025-06-15,Social,106.83
+2025-06-15,Direct,41.21
+2025-06-16,Organic Search,56.02
+2025-06-16,Paid Search,359.26
+2025-06-16,Email,76.32
+2025-06-16,Referral,58.79
+2025-06-16,Social,170.04
+2025-06-16,Direct,22.52
+2025-06-17,Organic Search,40.94
+2025-06-17,Paid Search,374.24
+2025-06-17,Email,84.19
+2025-06-17,Referral,54.74
+2025-06-17,Social,172.77
+2025-06-17,Direct,31.85
+2025-06-18,Organic Search,38.17
+2025-06-18,Paid Search,402.12
+2025-06-18,Email,88.0
+2025-06-18,Referral,56.72
+2025-06-18,Social,187.05
+2025-06-18,Direct,30.68
+2025-06-19,Organic Search,41.82
+2025-06-19,Paid Search,281.39
+2025-06-19,Email,61.46
+2025-06-19,Referral,53.76
+2025-06-19,Social,198.23
+2025-06-19,Direct,32.81
+2025-06-20,Organic Search,40.62
+2025-06-20,Paid Search,225.54
+2025-06-20,Email,51.21
+2025-06-20,Referral,54.09
+2025-06-20,Social,191.12
+2025-06-20,Direct,27.17
+2025-06-21,Organic Search,40.85
+2025-06-21,Paid Search,320.9
+2025-06-21,Email,82.68
+2025-06-21,Referral,63.13
+2025-06-21,Social,168.09
+2025-06-21,Direct,37.32
+2025-06-22,Organic Search,39.77
+2025-06-22,Paid Search,241.36
+2025-06-22,Email,70.27
+2025-06-22,Referral,57.05
+2025-06-22,Social,175.26
+2025-06-22,Direct,22.08
+2025-06-23,Organic Search,59.19
+2025-06-23,Paid Search,350.18
+2025-06-23,Email,89.09
+2025-06-23,Referral,73.13
+2025-06-23,Social,201.46
+2025-06-23,Direct,26.82
+2025-06-24,Organic Search,49.28
+2025-06-24,Paid Search,286.93
+2025-06-24,Email,73.8
+2025-06-24,Referral,47.57
+2025-06-24,Social,232.54
+2025-06-24,Direct,33.23
+2025-06-25,Organic Search,55.07
+2025-06-25,Paid Search,277.83
+2025-06-25,Email,71.86
+2025-06-25,Referral,63.05
+2025-06-25,Social,137.07
+2025-06-25,Direct,26.88
+2025-06-26,Organic Search,42.53
+2025-06-26,Paid Search,258.87
+2025-06-26,Email,56.61
+2025-06-26,Referral,51.86
+2025-06-26,Social,201.74
+2025-06-26,Direct,29.44
+2025-06-27,Organic Search,45.57
+2025-06-27,Paid Search,265.25
+2025-06-27,Email,78.26
+2025-06-27,Referral,55.38
+2025-06-27,Social,140.31
+2025-06-27,Direct,28.97
+2025-06-28,Organic Search,47.62
+2025-06-28,Paid Search,310.27
+2025-06-28,Email,75.29
+2025-06-28,Referral,34.4
+2025-06-28,Social,159.61
+2025-06-28,Direct,31.9
+2025-06-29,Organic Search,43.52
+2025-06-29,Paid Search,282.81
+2025-06-29,Email,85.89
+2025-06-29,Referral,51.12
+2025-06-29,Social,198.14
+2025-06-29,Direct,28.76
+2025-06-30,Organic Search,44.72
+2025-06-30,Paid Search,286.2
+2025-06-30,Email,59.99
+2025-06-30,Referral,75.16
+2025-06-30,Social,155.9
+2025-06-30,Direct,38.21
+2025-07-01,Organic Search,42.46
+2025-07-01,Paid Search,364.61
+2025-07-01,Email,81.78
+2025-07-01,Referral,40.26
+2025-07-01,Social,179.27
+2025-07-01,Direct,32.44
+2025-07-02,Organic Search,44.22
+2025-07-02,Paid Search,351.71
+2025-07-02,Email,71.88
+2025-07-02,Referral,47.36
+2025-07-02,Social,174.38
+2025-07-02,Direct,32.87
+2025-07-03,Organic Search,46.35
+2025-07-03,Paid Search,278.79
+2025-07-03,Email,68.74
+2025-07-03,Referral,58.94
+2025-07-03,Social,215.59
+2025-07-03,Direct,34.12
+2025-07-04,Organic Search,42.05
+2025-07-04,Paid Search,257.03
+2025-07-04,Email,58.44
+2025-07-04,Referral,47.88
+2025-07-04,Social,170.03
+2025-07-04,Direct,26.54
+2025-07-05,Organic Search,39.04
+2025-07-05,Paid Search,236.54
+2025-07-05,Email,69.82
+2025-07-05,Referral,51.02
+2025-07-05,Social,193.2
+2025-07-05,Direct,32.62
+2025-07-06,Organic Search,38.58
+2025-07-06,Paid Search,403.13
+2025-07-06,Email,80.9
+2025-07-06,Referral,60.11
+2025-07-06,Social,222.62
+2025-07-06,Direct,32.97
+2025-07-07,Organic Search,47.57
+2025-07-07,Paid Search,242.78
+2025-07-07,Email,87.92
+2025-07-07,Referral,56.69
+2025-07-07,Social,227.46
+2025-07-07,Direct,18.07
+2025-07-08,Organic Search,50.31
+2025-07-08,Paid Search,228.94
+2025-07-08,Email,54.61
+2025-07-08,Referral,68.53
+2025-07-08,Social,213.84
+2025-07-08,Direct,27.43
+2025-07-09,Organic Search,46.55
+2025-07-09,Paid Search,308.1
+2025-07-09,Email,74.63
+2025-07-09,Referral,48.9
+2025-07-09,Social,182.62
+2025-07-09,Direct,31.84
+2025-07-10,Organic Search,37.43
+2025-07-10,Paid Search,272.61
+2025-07-10,Email,74.98
+2025-07-10,Referral,62.6
+2025-07-10,Social,212.38
+2025-07-10,Direct,30.19
+2025-07-11,Organic Search,47.57
+2025-07-11,Paid Search,359.54
+2025-07-11,Email,64.43
+2025-07-11,Referral,46.1
+2025-07-11,Social,183.09
+2025-07-11,Direct,31.5
+2025-07-12,Organic Search,41.83
+2025-07-12,Paid Search,350.71
+2025-07-12,Email,79.04
+2025-07-12,Referral,44.72
+2025-07-12,Social,228.09
+2025-07-12,Direct,32.39
+2025-07-13,Organic Search,40.11
+2025-07-13,Paid Search,316.92
+2025-07-13,Email,77.65
+2025-07-13,Referral,61.59
+2025-07-13,Social,174.63
+2025-07-13,Direct,38.11
+2025-07-14,Organic Search,51.31
+2025-07-14,Paid Search,240.76
+2025-07-14,Email,76.15
+2025-07-14,Referral,62.57
+2025-07-14,Social,178.43
+2025-07-14,Direct,29.46
+2025-07-15,Organic Search,46.45
+2025-07-15,Paid Search,312.88
+2025-07-15,Email,70.99
+2025-07-15,Referral,50.3
+2025-07-15,Social,192.83
+2025-07-15,Direct,26.43
+2025-07-16,Organic Search,48.36
+2025-07-16,Paid Search,283.89
+2025-07-16,Email,87.32
+2025-07-16,Referral,52.14
+2025-07-16,Social,203.26
+2025-07-16,Direct,22.05
+2025-07-17,Organic Search,39.9
+2025-07-17,Paid Search,243.81
+2025-07-17,Email,76.63
+2025-07-17,Referral,38.67
+2025-07-17,Social,182.97
+2025-07-17,Direct,39.41
+2025-07-18,Organic Search,51.31
+2025-07-18,Paid Search,311.28
+2025-07-18,Email,70.25
+2025-07-18,Referral,61.29
+2025-07-18,Social,178.16
+2025-07-18,Direct,23.47
+2025-07-19,Organic Search,37.46
+2025-07-19,Paid Search,269.78
+2025-07-19,Email,73.55
+2025-07-19,Referral,56.31
+2025-07-19,Social,173.63
+2025-07-19,Direct,24.97
+2025-07-20,Organic Search,50.83
+2025-07-20,Paid Search,333.44
+2025-07-20,Email,82.9
+2025-07-20,Referral,70.64
+2025-07-20,Social,159.23
+2025-07-20,Direct,24.13
+2025-07-21,Organic Search,56.27
+2025-07-21,Paid Search,294.61
+2025-07-21,Email,76.37
+2025-07-21,Referral,38.24
+2025-07-21,Social,233.69
+2025-07-21,Direct,33.34
+2025-07-22,Organic Search,40.75
+2025-07-22,Paid Search,282.12
+2025-07-22,Email,64.03
+2025-07-22,Referral,57.77
+2025-07-22,Social,238.2
+2025-07-22,Direct,39.02
+2025-07-23,Organic Search,39.03
+2025-07-23,Paid Search,317.23
+2025-07-23,Email,76.02
+2025-07-23,Referral,59.38
+2025-07-23,Social,202.35
+2025-07-23,Direct,36.34
+2025-07-24,Organic Search,56.01
+2025-07-24,Paid Search,320.35
+2025-07-24,Email,58.59
+2025-07-24,Referral,81.4
+2025-07-24,Social,209.47
+2025-07-24,Direct,22.22
+2025-07-25,Organic Search,38.78
+2025-07-25,Paid Search,295.78
+2025-07-25,Email,69.25
+2025-07-25,Referral,48.93
+2025-07-25,Social,204.91
+2025-07-25,Direct,31.01
+2025-07-26,Organic Search,32.56
+2025-07-26,Paid Search,323.04
+2025-07-26,Email,73.67
+2025-07-26,Referral,57.43
+2025-07-26,Social,171.79
+2025-07-26,Direct,33.12
+2025-07-27,Organic Search,40.02
+2025-07-27,Paid Search,285.65
+2025-07-27,Email,67.48
+2025-07-27,Referral,49.85
+2025-07-27,Social,230.59
+2025-07-27,Direct,33.53
+2025-07-28,Organic Search,40.23
+2025-07-28,Paid Search,270.16
+2025-07-28,Email,72.53
+2025-07-28,Referral,51.37
+2025-07-28,Social,190.96
+2025-07-28,Direct,29.46
+2025-07-29,Organic Search,50.45
+2025-07-29,Paid Search,327.92
+2025-07-29,Email,92.91
+2025-07-29,Referral,55.64
+2025-07-29,Social,133.27
+2025-07-29,Direct,34.45
+2025-07-30,Organic Search,47.12
+2025-07-30,Paid Search,325.16
+2025-07-30,Email,65.29
+2025-07-30,Referral,59.93
+2025-07-30,Social,236.44
+2025-07-30,Direct,34.55
+2025-07-31,Organic Search,38.58
+2025-07-31,Paid Search,254.71
+2025-07-31,Email,71.79
+2025-07-31,Referral,53.47
+2025-07-31,Social,176.27
+2025-07-31,Direct,28.52
+2025-08-01,Organic Search,32.15
+2025-08-01,Paid Search,302.06
+2025-08-01,Email,79.53
+2025-08-01,Referral,61.12
+2025-08-01,Social,168.68
+2025-08-01,Direct,38.87
+2025-08-02,Organic Search,34.33
+2025-08-02,Paid Search,306.0
+2025-08-02,Email,64.03
+2025-08-02,Referral,47.44
+2025-08-02,Social,177.43
+2025-08-02,Direct,26.91
+2025-08-03,Organic Search,59.85
+2025-08-03,Paid Search,317.98
+2025-08-03,Email,90.03
+2025-08-03,Referral,44.85
+2025-08-03,Social,138.8
+2025-08-03,Direct,41.15
+2025-08-04,Organic Search,50.54
+2025-08-04,Paid Search,299.52
+2025-08-04,Email,86.44
+2025-08-04,Referral,41.99
+2025-08-04,Social,117.82
+2025-08-04,Direct,27.7
+2025-08-05,Organic Search,42.51
+2025-08-05,Paid Search,315.26
+2025-08-05,Email,71.63
+2025-08-05,Referral,55.13
+2025-08-05,Social,227.36
+2025-08-05,Direct,30.8
+2025-08-06,Organic Search,56.97
+2025-08-06,Paid Search,155.14
+2025-08-06,Email,64.08
+2025-08-06,Referral,74.87
+2025-08-06,Social,201.55
+2025-08-06,Direct,26.82
+2025-08-07,Organic Search,38.97
+2025-08-07,Paid Search,348.74
+2025-08-07,Email,81.35
+2025-08-07,Referral,63.09
+2025-08-07,Social,227.9
+2025-08-07,Direct,20.82
+2025-08-08,Organic Search,37.75
+2025-08-08,Paid Search,334.64
+2025-08-08,Email,71.95
+2025-08-08,Referral,45.81
+2025-08-08,Social,295.52
+2025-08-08,Direct,22.31
+2025-08-09,Organic Search,40.02
+2025-08-09,Paid Search,262.57
+2025-08-09,Email,77.02
+2025-08-09,Referral,65.72
+2025-08-09,Social,188.65
+2025-08-09,Direct,37.28
+2025-08-10,Organic Search,41.45
+2025-08-10,Paid Search,383.39
+2025-08-10,Email,64.8
+2025-08-10,Referral,53.49
+2025-08-10,Social,128.22
+2025-08-10,Direct,28.24
+2025-08-11,Organic Search,54.54
+2025-08-11,Paid Search,277.22
+2025-08-11,Email,84.81
+2025-08-11,Referral,57.25
+2025-08-11,Social,168.2
+2025-08-11,Direct,38.26
+2025-08-12,Organic Search,46.52
+2025-08-12,Paid Search,346.75
+2025-08-12,Email,82.4
+2025-08-12,Referral,54.1
+2025-08-12,Social,183.04
+2025-08-12,Direct,35.1
+2025-08-13,Organic Search,62.01
+2025-08-13,Paid Search,296.76
+2025-08-13,Email,80.17
+2025-08-13,Referral,53.4
+2025-08-13,Social,168.75
+2025-08-13,Direct,27.19
+2025-08-14,Organic Search,39.31
+2025-08-14,Paid Search,234.69
+2025-08-14,Email,67.8
+2025-08-14,Referral,64.15
+2025-08-14,Social,230.5
+2025-08-14,Direct,31.1
+2025-08-15,Organic Search,46.22
+2025-08-15,Paid Search,354.37
+2025-08-15,Email,108.61
+2025-08-15,Referral,74.07
+2025-08-15,Social,241.72
+2025-08-15,Direct,36.47
+2025-08-16,Organic Search,40.22
+2025-08-16,Paid Search,229.37
+2025-08-16,Email,44.25
+2025-08-16,Referral,63.99
+2025-08-16,Social,232.05
+2025-08-16,Direct,31.04
+2025-08-17,Organic Search,59.05
+2025-08-17,Paid Search,399.54
+2025-08-17,Email,77.86
+2025-08-17,Referral,42.33
+2025-08-17,Social,143.21
+2025-08-17,Direct,31.52
+2025-08-18,Organic Search,45.82
+2025-08-18,Paid Search,275.56
+2025-08-18,Email,64.89
+2025-08-18,Referral,58.14
+2025-08-18,Social,180.41
+2025-08-18,Direct,41.42
+2025-08-19,Organic Search,35.44
+2025-08-19,Paid Search,252.89
+2025-08-19,Email,87.66
+2025-08-19,Referral,40.21
+2025-08-19,Social,210.96
+2025-08-19,Direct,26.2
+2025-08-20,Organic Search,47.72
+2025-08-20,Paid Search,245.12
+2025-08-20,Email,73.12
+2025-08-20,Referral,58.38
+2025-08-20,Social,185.4
+2025-08-20,Direct,29.45
+2025-08-21,Organic Search,46.58
+2025-08-21,Paid Search,332.12
+2025-08-21,Email,70.34
+2025-08-21,Referral,66.69
+2025-08-21,Social,169.14
+2025-08-21,Direct,41.99
+2025-08-22,Organic Search,49.83
+2025-08-22,Paid Search,329.51
+2025-08-22,Email,73.49
+2025-08-22,Referral,53.54
+2025-08-22,Social,186.42
+2025-08-22,Direct,39.37
+2025-08-23,Organic Search,39.06
+2025-08-23,Paid Search,312.45
+2025-08-23,Email,70.02
+2025-08-23,Referral,61.98
+2025-08-23,Social,200.24
+2025-08-23,Direct,25.33
+2025-08-24,Organic Search,43.46
+2025-08-24,Paid Search,207.64
+2025-08-24,Email,91.41
+2025-08-24,Referral,48.92
+2025-08-24,Social,130.34
+2025-08-24,Direct,28.7
+2025-08-25,Organic Search,40.12
+2025-08-25,Paid Search,358.2
+2025-08-25,Email,62.25
+2025-08-25,Referral,70.81
+2025-08-25,Social,147.54
+2025-08-25,Direct,25.52
+2025-08-26,Organic Search,30.27
+2025-08-26,Paid Search,317.83
+2025-08-26,Email,51.74
+2025-08-26,Referral,52.2
+2025-08-26,Social,139.6
+2025-08-26,Direct,23.58
+2025-08-27,Organic Search,43.76
+2025-08-27,Paid Search,249.17
+2025-08-27,Email,77.44
+2025-08-27,Referral,48.64
+2025-08-27,Social,188.18
+2025-08-27,Direct,35.58
+2025-08-28,Organic Search,40.87
+2025-08-28,Paid Search,291.2
+2025-08-28,Email,84.51
+2025-08-28,Referral,53.71
+2025-08-28,Social,182.02
+2025-08-28,Direct,27.78
+2025-08-29,Organic Search,51.29
+2025-08-29,Paid Search,255.39
+2025-08-29,Email,67.08
+2025-08-29,Referral,44.02
+2025-08-29,Social,211.56
+2025-08-29,Direct,31.91
+2025-08-30,Organic Search,43.71
+2025-08-30,Paid Search,375.47
+2025-08-30,Email,52.79
+2025-08-30,Referral,59.3
+2025-08-30,Social,163.32
+2025-08-30,Direct,34.61
+2025-08-31,Organic Search,42.92
+2025-08-31,Paid Search,356.19
+2025-08-31,Email,78.14
+2025-08-31,Referral,51.48
+2025-08-31,Social,249.13
+2025-08-31,Direct,26.62
+2025-09-01,Organic Search,42.92
+2025-09-01,Paid Search,273.15
+2025-09-01,Email,77.15
+2025-09-01,Referral,60.54
+2025-09-01,Social,195.21
+2025-09-01,Direct,33.71
+2025-09-02,Organic Search,47.66
+2025-09-02,Paid Search,162.03
+2025-09-02,Email,65.32
+2025-09-02,Referral,52.32
+2025-09-02,Social,132.21
+2025-09-02,Direct,31.96
+2025-09-03,Organic Search,43.24
+2025-09-03,Paid Search,326.98
+2025-09-03,Email,73.5
+2025-09-03,Referral,47.77
+2025-09-03,Social,177.73
+2025-09-03,Direct,29.24
+2025-09-04,Organic Search,47.78
+2025-09-04,Paid Search,307.25
+2025-09-04,Email,90.45
+2025-09-04,Referral,58.88
+2025-09-04,Social,169.48
+2025-09-04,Direct,35.42
+2025-09-05,Organic Search,43.11
+2025-09-05,Paid Search,298.72
+2025-09-05,Email,61.65
+2025-09-05,Referral,59.81
+2025-09-05,Social,189.7
+2025-09-05,Direct,30.86
+2025-09-06,Organic Search,40.11
+2025-09-06,Paid Search,295.19
+2025-09-06,Email,61.28
+2025-09-06,Referral,64.24
+2025-09-06,Social,260.23
+2025-09-06,Direct,35.81
+2025-09-07,Organic Search,47.9
+2025-09-07,Paid Search,329.55
+2025-09-07,Email,51.21
+2025-09-07,Referral,52.07
+2025-09-07,Social,165.47
+2025-09-07,Direct,23.17
+2025-09-08,Organic Search,43.25
+2025-09-08,Paid Search,377.21
+2025-09-08,Email,82.1
+2025-09-08,Referral,49.18
+2025-09-08,Social,248.9
+2025-09-08,Direct,25.57
+2025-09-09,Organic Search,40.04
+2025-09-09,Paid Search,391.97
+2025-09-09,Email,73.03
+2025-09-09,Referral,73.86
+2025-09-09,Social,224.28
+2025-09-09,Direct,31.03
+2025-09-10,Organic Search,48.39
+2025-09-10,Paid Search,259.69
+2025-09-10,Email,49.58
+2025-09-10,Referral,60.81
+2025-09-10,Social,140.04
+2025-09-10,Direct,29.51
+2025-09-11,Organic Search,35.85
+2025-09-11,Paid Search,329.34
+2025-09-11,Email,77.93
+2025-09-11,Referral,50.84
+2025-09-11,Social,212.77
+2025-09-11,Direct,33.7
+2025-09-12,Organic Search,38.28
+2025-09-12,Paid Search,295.65
+2025-09-12,Email,81.56
+2025-09-12,Referral,59.86
+2025-09-12,Social,114.4
+2025-09-12,Direct,40.95
+2025-09-13,Organic Search,66.4
+2025-09-13,Paid Search,253.71
+2025-09-13,Email,84.52
+2025-09-13,Referral,50.83
+2025-09-13,Social,177.55
+2025-09-13,Direct,28.27
+2025-09-14,Organic Search,44.22
+2025-09-14,Paid Search,319.09
+2025-09-14,Email,71.84
+2025-09-14,Referral,62.8
+2025-09-14,Social,187.93
+2025-09-14,Direct,24.39
+2025-09-15,Organic Search,32.82
+2025-09-15,Paid Search,238.32
+2025-09-15,Email,65.41
+2025-09-15,Referral,62.53
+2025-09-15,Social,185.36
+2025-09-15,Direct,30.88
+2025-09-16,Organic Search,60.53
+2025-09-16,Paid Search,331.4
+2025-09-16,Email,80.07
+2025-09-16,Referral,52.04
+2025-09-16,Social,172.8
+2025-09-16,Direct,24.72
+2025-09-17,Organic Search,42.93
+2025-09-17,Paid Search,275.63
+2025-09-17,Email,96.23
+2025-09-17,Referral,71.63
+2025-09-17,Social,201.89
+2025-09-17,Direct,24.25
+2025-09-18,Organic Search,50.01
+2025-09-18,Paid Search,334.95
+2025-09-18,Email,82.51
+2025-09-18,Referral,50.74
+2025-09-18,Social,211.02
+2025-09-18,Direct,26.06
+2025-09-19,Organic Search,39.64
+2025-09-19,Paid Search,285.36
+2025-09-19,Email,84.11
+2025-09-19,Referral,55.43
+2025-09-19,Social,210.23
+2025-09-19,Direct,28.78
+2025-09-20,Organic Search,47.55
+2025-09-20,Paid Search,292.97
+2025-09-20,Email,52.59
+2025-09-20,Referral,45.31
+2025-09-20,Social,183.64
+2025-09-20,Direct,33.89
+2025-09-21,Organic Search,57.24
+2025-09-21,Paid Search,317.79
+2025-09-21,Email,75.61
+2025-09-21,Referral,58.77
+2025-09-21,Social,174.91
+2025-09-21,Direct,27.52
+2025-09-22,Organic Search,58.01
+2025-09-22,Paid Search,236.76
+2025-09-22,Email,70.1
+2025-09-22,Referral,52.46
+2025-09-22,Social,167.07
+2025-09-22,Direct,12.66
+2025-09-23,Organic Search,34.72
+2025-09-23,Paid Search,237.38
+2025-09-23,Email,64.13
+2025-09-23,Referral,50.17
+2025-09-23,Social,201.55
+2025-09-23,Direct,29.45
+2025-09-24,Organic Search,50.7
+2025-09-24,Paid Search,266.09
+2025-09-24,Email,65.43
+2025-09-24,Referral,56.76
+2025-09-24,Social,142.71
+2025-09-24,Direct,18.88
+2025-09-25,Organic Search,46.39
+2025-09-25,Paid Search,354.51
+2025-09-25,Email,91.61
+2025-09-25,Referral,51.98
+2025-09-25,Social,203.84
+2025-09-25,Direct,34.91
+2025-09-26,Organic Search,42.09
+2025-09-26,Paid Search,201.21
+2025-09-26,Email,63.29
+2025-09-26,Referral,78.47
+2025-09-26,Social,138.35
+2025-09-26,Direct,31.49
+2025-09-27,Organic Search,40.56
+2025-09-27,Paid Search,287.41
+2025-09-27,Email,78.84
+2025-09-27,Referral,59.14
+2025-09-27,Social,201.95
+2025-09-27,Direct,25.35
+2025-09-28,Organic Search,50.71
+2025-09-28,Paid Search,382.48
+2025-09-28,Email,63.46
+2025-09-28,Referral,57.89
+2025-09-28,Social,184.95
+2025-09-28,Direct,28.51
+2025-09-29,Organic Search,43.71
+2025-09-29,Paid Search,297.33
+2025-09-29,Email,72.2
+2025-09-29,Referral,58.07
+2025-09-29,Social,163.21
+2025-09-29,Direct,35.37
+2025-09-30,Organic Search,43.29
+2025-09-30,Paid Search,340.75
+2025-09-30,Email,72.41
+2025-09-30,Referral,57.41
+2025-09-30,Social,181.65
+2025-09-30,Direct,26.45
+2025-10-01,Organic Search,38.4
+2025-10-01,Paid Search,349.31
+2025-10-01,Email,60.43
+2025-10-01,Referral,57.37
+2025-10-01,Social,135.51
+2025-10-01,Direct,20.8
+2025-10-02,Organic Search,44.83
+2025-10-02,Paid Search,309.95
+2025-10-02,Email,81.59
+2025-10-02,Referral,63.05
+2025-10-02,Social,134.13
+2025-10-02,Direct,27.85
+2025-10-03,Organic Search,44.12
+2025-10-03,Paid Search,288.27
+2025-10-03,Email,90.08
+2025-10-03,Referral,59.44
+2025-10-03,Social,169.36
+2025-10-03,Direct,28.07
+2025-10-04,Organic Search,57.31
+2025-10-04,Paid Search,224.43
+2025-10-04,Email,93.62
+2025-10-04,Referral,46.74
+2025-10-04,Social,179.6
+2025-10-04,Direct,27.65
+2025-10-05,Organic Search,35.07
+2025-10-05,Paid Search,373.82
+2025-10-05,Email,74.26
+2025-10-05,Referral,42.2
+2025-10-05,Social,209.94
+2025-10-05,Direct,31.62
+2025-10-06,Organic Search,39.08
+2025-10-06,Paid Search,277.97
+2025-10-06,Email,63.17
+2025-10-06,Referral,69.48
+2025-10-06,Social,170.75
+2025-10-06,Direct,32.76
+2025-10-07,Organic Search,45.64
+2025-10-07,Paid Search,302.55
+2025-10-07,Email,74.35
+2025-10-07,Referral,69.79
+2025-10-07,Social,157.88
+2025-10-07,Direct,28.59
+2025-10-08,Organic Search,43.49
+2025-10-08,Paid Search,338.52
+2025-10-08,Email,57.16
+2025-10-08,Referral,41.0
+2025-10-08,Social,217.73
+2025-10-08,Direct,24.89
+2025-10-09,Organic Search,49.11
+2025-10-09,Paid Search,334.69
+2025-10-09,Email,67.27
+2025-10-09,Referral,51.25
+2025-10-09,Social,155.0
+2025-10-09,Direct,25.18
+2025-10-10,Organic Search,51.16
+2025-10-10,Paid Search,284.31
+2025-10-10,Email,77.07
+2025-10-10,Referral,45.83
+2025-10-10,Social,161.36
+2025-10-10,Direct,33.24
+2025-10-11,Organic Search,35.26
+2025-10-11,Paid Search,308.94
+2025-10-11,Email,95.41
+2025-10-11,Referral,74.73
+2025-10-11,Social,164.37
+2025-10-11,Direct,29.03
+2025-10-12,Organic Search,45.61
+2025-10-12,Paid Search,375.21
+2025-10-12,Email,76.34
+2025-10-12,Referral,47.97
+2025-10-12,Social,209.02
+2025-10-12,Direct,28.26
+2025-10-13,Organic Search,31.55
+2025-10-13,Paid Search,253.47
+2025-10-13,Email,56.97
+2025-10-13,Referral,54.89
+2025-10-13,Social,182.38
+2025-10-13,Direct,41.57
+2025-10-14,Organic Search,42.9
+2025-10-14,Paid Search,329.42
+2025-10-14,Email,69.91
+2025-10-14,Referral,69.56
+2025-10-14,Social,141.4
+2025-10-14,Direct,31.76
+2025-10-15,Organic Search,36.25
+2025-10-15,Paid Search,232.33
+2025-10-15,Email,83.57
+2025-10-15,Referral,59.69
+2025-10-15,Social,183.33
+2025-10-15,Direct,34.9
+2025-10-16,Organic Search,64.91
+2025-10-16,Paid Search,271.82
+2025-10-16,Email,67.71
+2025-10-16,Referral,59.66
+2025-10-16,Social,185.53
+2025-10-16,Direct,32.52
+2025-10-17,Organic Search,43.43
+2025-10-17,Paid Search,361.26
+2025-10-17,Email,79.86
+2025-10-17,Referral,63.97
+2025-10-17,Social,153.94
+2025-10-17,Direct,28.87
+2025-10-18,Organic Search,46.41
+2025-10-18,Paid Search,353.14
+2025-10-18,Email,100.32
+2025-10-18,Referral,54.62
+2025-10-18,Social,220.19
+2025-10-18,Direct,28.68
+2025-10-19,Organic Search,50.57
+2025-10-19,Paid Search,397.5
+2025-10-19,Email,71.03
+2025-10-19,Referral,59.93
+2025-10-19,Social,218.48
+2025-10-19,Direct,22.41
+2025-10-20,Organic Search,47.81
+2025-10-20,Paid Search,297.66
+2025-10-20,Email,81.43
+2025-10-20,Referral,43.02
+2025-10-20,Social,171.62
+2025-10-20,Direct,34.45
+2025-10-21,Organic Search,50.28
+2025-10-21,Paid Search,372.47
+2025-10-21,Email,58.9
+2025-10-21,Referral,60.02
+2025-10-21,Social,177.18
+2025-10-21,Direct,34.07
+2025-10-22,Organic Search,48.57
+2025-10-22,Paid Search,324.31
+2025-10-22,Email,53.02
+2025-10-22,Referral,50.31
+2025-10-22,Social,185.63
+2025-10-22,Direct,30.55
+2025-10-23,Organic Search,37.54
+2025-10-23,Paid Search,337.01
+2025-10-23,Email,77.41
+2025-10-23,Referral,60.96
+2025-10-23,Social,238.89
+2025-10-23,Direct,26.15
+2025-10-24,Organic Search,40.37
+2025-10-24,Paid Search,296.85
+2025-10-24,Email,77.15
+2025-10-24,Referral,61.35
+2025-10-24,Social,174.86
+2025-10-24,Direct,34.63
+2025-10-25,Organic Search,52.86
+2025-10-25,Paid Search,307.89
+2025-10-25,Email,89.72
+2025-10-25,Referral,29.83
+2025-10-25,Social,232.76
+2025-10-25,Direct,27.81
+2025-10-26,Organic Search,55.96
+2025-10-26,Paid Search,272.93
+2025-10-26,Email,99.73
+2025-10-26,Referral,49.23
+2025-10-26,Social,156.16
+2025-10-26,Direct,29.82
+2025-10-27,Organic Search,41.45
+2025-10-27,Paid Search,321.84
+2025-10-27,Email,67.85
+2025-10-27,Referral,57.04
+2025-10-27,Social,205.28
+2025-10-27,Direct,25.97
