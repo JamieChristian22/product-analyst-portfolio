@@ -1,0 +1,5 @@
+stage,sessions,pct_of_viewers,step_conversion_pct,dropoff_from_prior
+Viewed,5000,100.0,100.0,0
+Added to Cart,1921,38.42,38.42,3079
+Checkout Started,1300,26.0,67.6730869338886,621
+Purchased,961,19.220000000000002,73.92307692307692,339

@@ -1,0 +1,2 @@
+comparison,desktop_conversion_pct,mobile_conversion_pct,absolute_difference_pp,z_statistic,p_value,statistically_significant_at_0_05
+Desktop vs Mobile overall purchase conversion,21.30790190735695,17.653508771929825,3.6543931354271253,3.0797574629656963,0.0020716922492778345,True
