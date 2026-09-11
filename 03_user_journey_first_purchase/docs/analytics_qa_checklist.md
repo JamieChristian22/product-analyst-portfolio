@@ -1,0 +1,12 @@
+# Analytics QA Checklist
+- [x] One row per user journey
+- [x] First touch precedes first purchase
+- [x] Sessions >= 1
+- [x] Journey duration explicitly defined
+- [x] Acquisition-medium sample sizes included
+- [x] Journey speed paired with revenue-quality metrics
+- [x] Correlation labeled non-causal
+- [x] Opportunity sizing assumption documented
+- [x] Experiment and guardrails included
+- [x] Simulated-data disclosure included
+- [x] No fabricated PNG dashboards/screenshots

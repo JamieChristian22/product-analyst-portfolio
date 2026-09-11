@@ -1,0 +1,3 @@
+metric_a,metric_b,spearman_rho,p_value
+Sessions before purchase,Journey duration days,0.7922633457697593,0.0
+Events before purchase,Journey duration days,0.6931454372016905,0.0

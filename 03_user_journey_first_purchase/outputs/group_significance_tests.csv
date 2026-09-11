@@ -1,0 +1,3 @@
+comparison,test,statistic,p_value,significant_at_0_05
+Journey duration by acquisition medium,Kruskal-Wallis,64.11213323007343,1.7124397782916322e-12,True
+Journey duration by device,Kruskal-Wallis,53.81680729297897,2.059817670542817e-12,True

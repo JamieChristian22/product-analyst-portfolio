@@ -1,0 +1,4 @@
+metric,estimate,ci_95_lower,ci_95_upper
+Median journey duration (days),11.015,10.75,11.27
+7-day fast-purchase rate,0.206,0.19215833333333332,0.22050833333333328
+Average sessions before purchase,3.9583333333333335,3.8913333333333333,4.031841666666667
