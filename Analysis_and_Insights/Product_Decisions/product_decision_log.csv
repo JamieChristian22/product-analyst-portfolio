@@ -1,0 +1,7 @@
+decision_id,project,decision,evidence,decision_type,priority,success_metric,status
+D-001,01,Improve PDP decision support,View→Cart is largest loss,Experiment,High,View→Cart conversion,Pending validation
+D-002,02,Guide users to activation milestone,Activation should represent first value,Experiment,High,Activated retained users,Pending validation
+D-003,03,Prioritize high-friction journey segment,Journey duration correlates with friction,Experiment,High,7-day purchase rate,Pending validation
+D-004,04,Do not scale aggregate acquisition yet,Observed economics are unattractive,Investment,Critical,ROI / LTV:CAC / payback,Adopt
+D-005,05,Prioritize View→Cart + device/channel friction,Largest addressable funnel loss,Experiment,High,Purchase conversion,Pending validation
+D-006,06,Build next-best-action workflow,Stale/overdue deals create workflow risk,Product,High,Stale rate / progression,Pending validation

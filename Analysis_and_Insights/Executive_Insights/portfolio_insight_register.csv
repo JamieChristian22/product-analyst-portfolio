@@ -1,0 +1,7 @@
+project,decision_area,observation,root_cause_hypothesis,recommendation,primary_metric,guardrails,priority
+01 E-commerce Funnel Optimization,View → Add to Cart,Largest absolute funnel loss,PDP/CTA clarity and trust friction,Test stronger CTA + shipping/returns clarity,View→Cart conversion,"AOV, performance",High
+02 StreamFlow SaaS Analytics,Activation,Create project + upload video is activation proxy,Users may not reach first value quickly,Guided onboarding to first value,Activation + retained activation,"Support burden, cancellation",High
+03 User Journey First Purchase,Journey Speed,High-friction segments take longer to purchase,Journey continuity and device/channel friction,Test continuity improvements for priority segment,7-day purchase rate,"First purchase revenue, support",High
+04 Conversion Retention Revenue KPIs,Unit Economics,Observed-period ROI is negative,Acquisition efficiency/retention economics,Reallocate incrementally; validate stronger channels,LTV:CAC / payback / ROI,"Volume, retention quality",Critical
+05 Conversion Funnel Revenue,Funnel-to-Revenue,View→Cart loss has highest addressable volume,Product detail decision friction,Target highest-friction device×channel,Purchase conversion + revenue/session,"AOV, page performance",High
+06 Salesforce Product & Pipeline,Workflow Health,Stale/overdue opportunities weaken workflow,Salesforce workflow friction,Next-best-action + stale alerts + hygiene prompts,Stale rate + stage progression,"Alert fatigue, task burden",High

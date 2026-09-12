@@ -1,0 +1,7 @@
+experiment,project,reach,impact,confidence,effort,rice_score,priority
+PDP CTA + trust clarity,01,8,7,8,4,112.0,P0
+Guided activation onboarding,02,9,8,8,5,115.2,P0
+Journey continuity treatment,03,7,7,7,5,68.6,P1
+Channel budget reallocation test,04,9,8,7,6,84.0,P0
+High-friction segment PDP treatment,05,8,8,8,5,102.4,P0
+Salesforce next-best-action workflow,06,8,8,8,6,85.3,P0
