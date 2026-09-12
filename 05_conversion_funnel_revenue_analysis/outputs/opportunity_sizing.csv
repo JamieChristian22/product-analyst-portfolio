@@ -1,0 +1,4 @@
+stage_entered,dropoff_users,recovery_assumption,recovered_purchases_proxy,aov,incremental_revenue_proxy
+add_to_cart,1785,0.1,178.5,90.66258670520232,16183.271726878613
+checkout,760,0.1,76.0,90.66258670520232,6890.356589595376
+purchase,379,0.1,37.9,90.66258670520232,3436.112036127168

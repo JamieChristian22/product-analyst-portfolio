@@ -1,0 +1,5 @@
+stage,users,step_conversion_rate,dropoff_users,dropoff_rate
+view,5000,1.0,0,0
+add_to_cart,3215,0.643,1785,0.357
+checkout,2455,0.7636080870917574,760,0.2363919129082426
+purchase,2076,0.8456211812627291,379,0.15437881873727088

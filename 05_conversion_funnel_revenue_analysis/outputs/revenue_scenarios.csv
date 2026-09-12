@@ -1,0 +1,4 @@
+scenario,view_to_cart_dropoff_recovery,recovered_purchases_proxy,incremental_revenue_proxy,projected_revenue_proxy
+Conservative,0.05,89.25,8091.635863439306,196307.1658634393
+Target,0.1,178.5,16183.271726878613,204398.80172687862
+Stretch,0.15,267.75,24274.90759031792,212490.43759031792
