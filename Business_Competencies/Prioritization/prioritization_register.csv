@@ -1,0 +1,6 @@
+initiative,theme,user_value,business_value,effort_band,reach,impact,confidence,effort,rice_score,priority
+Guided onboarding,Activation,High,High,Medium,8,8,8,5,115.2,P0
+Funnel friction reduction,Conversion,High,High,Medium,9,8,8,5,115.2,P0
+Instrumentation hardening,Measurement,High,High,Medium,10,9,9,6,135.0,P0
+Workflow alerting,Productivity,High,Medium,Medium,8,7,8,5,89.6,P1
+Predictive personalization,Growth,Potentially High,Low,High,6,8,4,10,19.2,P2

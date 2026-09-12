@@ -1,0 +1,6 @@
+id,item,type,impact,likelihood,owner,mitigation,status
+R-01,Instrumentation gap,Risk,High,Medium,Analytics/Engineering,Define minimum viable event contract and QA before launch,Open
+R-02,Metric definition conflict,Issue,High,Medium,Product/Analytics,Approve governed metric dictionary,Open
+A-01,Scenario economics reflect future behavior,Assumption,High,Medium,Finance/Product,Sensitivity test and label as modeled,Active
+D-01,Engineering capacity,Dependency,Medium,High,Engineering,Sequence P0 measurement work before lower-priority features,Active
+R-03,Alert fatigue,Risk,Medium,Medium,Product,Guardrail dismissal/task burden and tune thresholds,Open

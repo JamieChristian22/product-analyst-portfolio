@@ -1,0 +1,9 @@
+competency,business_outcome,evidence,success_standard,readiness
+Product Strategy,Translate company goals into measurable product outcomes,Strategy cascade + KPI hierarchy,Product objective has owned outcome metric,10/10
+Stakeholder Management,Align decision owners and cross-functional partners,Stakeholder map + RACI + scenarios,Decision rights and communication path clear,10/10
+Requirements,Convert evidence into testable product requirements,PRD brief + user stories + acceptance criteria,Requirements measurable and instrumented,10/10
+Prioritization,Rank opportunities by value/evidence/effort,RICE + impact/effort + strategic fit,Highest-value validated work prioritized,10/10
+Agile Delivery,Embed analytics into discovery-to-launch workflow,DoR/DoD + sprint analytics playbook,Instrumentation ready before measurement,10/10
+Risk & Governance,"Manage assumptions, data risk, and responsible analytics",RAID + governance standards,Material risks/assumptions documented,10/10
+Business Cases,Connect user/product change to economics,Business-case template,Investment assumptions transparent,10/10
+Executive Communication,Turn analysis into concise decisions,60-second readout framework,Decision/recommendation understood,10/10
