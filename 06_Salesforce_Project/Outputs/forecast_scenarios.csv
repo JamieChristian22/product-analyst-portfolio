@@ -1,0 +1,4 @@
+scenario,win_rate_effect,deal_size_effect,projected_weighted_forecast,incremental_vs_base
+Downside,-0.05,-0.05,4816380.774999999,-520329.22500000056
+Base,0,0,5336710.0,0.0
+Upside,0.1,0.08,6340011.480000001,1003301.4800000014

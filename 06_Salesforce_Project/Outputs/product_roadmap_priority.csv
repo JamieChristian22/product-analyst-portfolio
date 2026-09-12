@@ -1,0 +1,8 @@
+initiative,user_value,business_value,effort,priority_score,roadmap_priority
+Priority Opportunity Queue,9,10,6,15.0,P0
+Stale Deal Alerts,9,9,4,20.25,P0
+Close-Date Hygiene Prompt,7,9,3,21.0,P0
+Next-Best-Action Suggestions,9,9,6,13.5,P1
+Manager Risk Escalation,7,8,5,11.2,P1
+Forecast Change History,6,8,5,9.6,P1
+Predictive Risk Scoring,9,9,10,8.1,P2

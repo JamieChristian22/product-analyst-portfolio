@@ -1,0 +1,301 @@
+Opportunity,Account,Owner,Region,Industry,Lead_Source,Stage,Amount,Probability,Forecast_Category,Created_Date,Close_Date,Last_Activity_Date,Age_Days,Days_Since_Activity,Weighted_Pipeline,Stale_Flag,Overdue_Flag,Risk_Score
+OPP-0001,Account 047,Morgan Davis,West,Professional Services,Webinar,Closed Won,30900,1.0,Closed,2026-02-25,2026-05-28,2026-07-31,198,42,30900.0,0,0,50
+OPP-0002,Account 018,Morgan Davis,East,Manufacturing,Outbound,Discovery,56600,0.4,Best Case,2026-03-18,2026-12-16,2026-07-25,177,48,22640.0,1,0,64
+OPP-0003,Account 034,Avery Johnson,East,Retail,Partner,Qualification,56000,0.2,Pipeline,2026-04-28,2026-09-27,2026-07-27,136,46,11200.0,1,0,62
+OPP-0004,Account 013,Casey Brown,East,Technology,Inbound,Closed Lost,35600,0.0,Omitted,2026-03-25,2026-06-13,2026-09-07,170,4,0.0,0,0,42
+OPP-0005,Account 161,Jordan Lee,East,Financial Services,Outbound,Closed Won,41900,1.0,Closed,2026-06-10,2026-07-21,2026-08-14,93,28,41900.0,0,0,29
+OPP-0006,Account 015,Casey Brown,East,Technology,Inbound,Negotiation,87200,0.8,Commit,2026-02-04,2026-08-17,2026-08-04,219,38,69760.0,1,1,79
+OPP-0007,Account 036,Avery Johnson,West,Technology,Webinar,Discovery,61600,0.4,Best Case,2026-04-21,2026-11-24,2026-07-29,143,44,24640.0,1,0,58
+OPP-0008,Account 135,Casey Brown,Central,Professional Services,Outbound,Discovery,33500,0.4,Best Case,2026-08-31,2026-11-05,2026-09-10,11,1,13400.0,0,0,14
+OPP-0009,Account 167,Taylor Smith,West,Retail,Webinar,Qualification,85700,0.2,Pipeline,2026-03-31,2026-09-13,2026-08-20,164,22,17140.0,1,0,49
+OPP-0010,Account 008,Riley Wilson,Central,Financial Services,Paid Search,Discovery,85800,0.4,Best Case,2026-04-21,2026-08-18,2026-08-28,143,14,34320.0,0,1,63
+OPP-0011,Account 018,Casey Brown,East,Technology,Referral,Closed Won,6700,1.0,Closed,2026-04-19,2026-07-29,2026-09-04,145,7,6700.0,0,0,21
+OPP-0012,Account 159,Taylor Smith,West,Technology,Inbound,Proposal,46000,0.6,Best Case,2026-03-26,2026-11-22,2026-08-24,169,18,27600.0,0,0,39
+OPP-0013,Account 165,Morgan Davis,West,Retail,Webinar,Closed Won,37700,1.0,Closed,2026-03-04,2026-07-24,2026-08-17,191,25,37700.0,0,0,38
+OPP-0014,Account 051,Taylor Smith,East,Healthcare,Paid Search,Proposal,100200,0.6,Best Case,2026-07-06,2026-10-29,2026-07-20,67,53,60120.0,1,0,51
+OPP-0015,Account 152,Casey Brown,West,Manufacturing,Outbound,Closed Won,41900,1.0,Closed,2026-06-17,2026-07-17,2026-07-24,86,49,41900.0,0,0,42
+OPP-0016,Account 162,Taylor Smith,Central,Manufacturing,Referral,Closed Lost,38400,0.0,Omitted,2026-03-09,2026-06-03,2026-08-28,186,14,0.0,0,0,50
+OPP-0017,Account 132,Riley Wilson,Central,Professional Services,Inbound,Closed Won,23200,1.0,Closed,2026-08-10,2026-08-17,2026-08-10,32,32,23200.0,0,0,25
+OPP-0018,Account 167,Jordan Lee,West,Technology,Paid Search,Proposal,41800,0.6,Best Case,2026-07-30,2026-10-02,2026-08-22,43,20,25080.0,0,0,26
+OPP-0019,Account 018,Avery Johnson,East,Retail,Webinar,Qualification,10500,0.2,Pipeline,2026-07-11,2026-12-07,2026-08-28,62,14,2100.0,0,0,32
+OPP-0020,Account 142,Morgan Davis,Central,Manufacturing,Paid Search,Discovery,14900,0.4,Best Case,2026-04-20,2026-10-27,2026-07-21,144,52,5960.0,1,0,63
+OPP-0021,Account 130,Riley Wilson,East,Professional Services,Inbound,Closed Lost,24000,0.0,Omitted,2026-02-07,2026-05-04,2026-08-15,216,27,0.0,0,0,63
+OPP-0022,Account 097,Taylor Smith,East,Healthcare,Outbound,Proposal,48200,0.6,Best Case,2026-03-07,2026-08-18,2026-08-26,188,16,28920.0,0,1,65
+OPP-0023,Account 139,Morgan Davis,West,Retail,Paid Search,Discovery,46300,0.4,Best Case,2026-04-11,2026-08-18,2026-09-11,153,0,18520.0,0,1,54
+OPP-0024,Account 056,Casey Brown,West,Financial Services,Paid Search,Closed Won,45800,1.0,Closed,2026-06-11,2026-08-19,2026-08-07,92,35,45800.0,0,0,34
+OPP-0025,Account 041,Riley Wilson,East,Financial Services,Outbound,Closed Won,35000,1.0,Closed,2026-03-02,2026-07-02,2026-09-07,193,4,35000.0,0,0,25
+OPP-0026,Account 126,Avery Johnson,West,Retail,Webinar,Proposal,222500,0.6,Best Case,2026-06-18,2026-09-20,2026-07-23,85,50,133500.0,1,0,51
+OPP-0027,Account 080,Riley Wilson,West,Healthcare,Outbound,Discovery,29500,0.4,Best Case,2026-05-15,2026-12-01,2026-07-31,119,42,11800.0,1,0,54
+OPP-0028,Account 084,Casey Brown,East,Technology,Partner,Prospecting,64900,0.1,Pipeline,2026-07-21,2026-12-15,2026-07-23,52,50,6490.0,1,0,57
+OPP-0029,Account 114,Avery Johnson,Central,Financial Services,Inbound,Prospecting,42700,0.1,Pipeline,2026-07-04,2026-10-05,2026-07-19,69,54,4270.0,1,0,62
+OPP-0030,Account 054,Avery Johnson,East,Retail,Webinar,Qualification,62100,0.2,Pipeline,2026-03-02,2026-09-09,2026-08-13,193,29,12420.0,1,1,82
+OPP-0031,Account 117,Riley Wilson,Central,Financial Services,Outbound,Qualification,54700,0.2,Pipeline,2026-05-28,2026-08-19,2026-07-22,106,51,10940.0,1,1,87
+OPP-0032,Account 134,Casey Brown,East,Professional Services,Inbound,Closed Won,45000,1.0,Closed,2026-04-16,2026-06-04,2026-07-27,148,46,45000.0,0,0,47
+OPP-0033,Account 085,Jordan Lee,West,Manufacturing,Webinar,Closed Lost,155400,0.0,Omitted,2026-03-06,2026-05-19,2026-08-26,189,16,0.0,0,0,52
+OPP-0034,Account 110,Avery Johnson,West,Retail,Referral,Qualification,38000,0.2,Pipeline,2026-05-24,2026-10-01,2026-08-25,110,17,7600.0,0,0,40
+OPP-0035,Account 047,Taylor Smith,East,Financial Services,Partner,Closed Won,40300,1.0,Closed,2026-06-24,2026-07-16,2026-08-11,79,31,40300.0,0,0,30
+OPP-0036,Account 148,Avery Johnson,West,Financial Services,Partner,Proposal,116200,0.6,Best Case,2026-06-27,2026-12-10,2026-08-05,76,37,69720.0,1,0,41
+OPP-0037,Account 123,Riley Wilson,West,Healthcare,Referral,Qualification,54400,0.2,Pipeline,2026-04-22,2026-12-01,2026-07-20,142,53,10880.0,1,0,67
+OPP-0038,Account 142,Morgan Davis,West,Technology,Outbound,Proposal,26200,0.6,Best Case,2026-07-14,2026-10-10,2026-08-09,59,33,15720.0,1,0,37
+OPP-0039,Account 077,Avery Johnson,West,Technology,Paid Search,Proposal,31100,0.6,Best Case,2026-04-26,2026-08-22,2026-09-03,138,8,18660.0,0,1,54
+OPP-0040,Account 114,Casey Brown,Central,Technology,Paid Search,Proposal,81600,0.6,Best Case,2026-07-13,2026-10-19,2026-07-23,60,50,48960.0,1,0,48
+OPP-0041,Account 078,Morgan Davis,Central,Retail,Referral,Proposal,55200,0.6,Best Case,2026-05-21,2026-09-28,2026-07-30,113,43,33120.0,1,0,50
+OPP-0042,Account 117,Riley Wilson,Central,Manufacturing,Paid Search,Discovery,37900,0.4,Best Case,2026-05-10,2026-10-18,2026-08-14,124,28,15160.0,1,0,45
+OPP-0043,Account 170,Casey Brown,West,Technology,Outbound,Closed Lost,324700,0.0,Omitted,2026-03-18,2026-06-05,2026-08-17,177,25,0.0,0,0,57
+OPP-0044,Account 045,Jordan Lee,West,Retail,Partner,Qualification,9600,0.2,Pipeline,2026-08-28,2027-01-08,2026-09-03,14,8,1920.0,0,0,23
+OPP-0045,Account 003,Casey Brown,Central,Financial Services,Inbound,Proposal,33700,0.6,Best Case,2026-06-10,2026-11-30,2026-08-06,93,36,20220.0,1,0,43
+OPP-0046,Account 116,Jordan Lee,West,Manufacturing,Partner,Negotiation,77400,0.8,Commit,2026-03-15,2026-09-09,2026-07-22,180,51,61920.0,1,1,83
+OPP-0047,Account 060,Avery Johnson,Central,Manufacturing,Paid Search,Qualification,82600,0.2,Pipeline,2026-08-15,2026-11-27,2026-08-18,27,24,16520.0,1,0,35
+OPP-0048,Account 154,Taylor Smith,Central,Retail,Paid Search,Prospecting,16600,0.1,Pipeline,2026-05-06,2026-09-22,2026-07-31,128,42,1660.0,1,0,61
+OPP-0049,Account 025,Avery Johnson,East,Manufacturing,Referral,Prospecting,32200,0.1,Pipeline,2026-04-23,2026-09-15,2026-08-10,141,32,3220.0,1,0,55
+OPP-0050,Account 126,Avery Johnson,East,Retail,Partner,Qualification,30500,0.2,Pipeline,2026-08-04,2026-12-10,2026-09-11,38,0,6100.0,0,0,20
+OPP-0051,Account 169,Casey Brown,West,Financial Services,Outbound,Closed Won,69600,1.0,Closed,2026-02-05,2026-05-19,2026-08-03,218,39,69600.0,0,0,51
+OPP-0052,Account 102,Jordan Lee,Central,Healthcare,Partner,Negotiation,37200,0.8,Commit,2026-03-20,2026-10-02,2026-09-11,175,0,29760.0,0,0,24
+OPP-0053,Account 038,Casey Brown,East,Healthcare,Partner,Closed Won,43000,1.0,Closed,2026-04-01,2026-08-07,2026-07-25,163,48,43000.0,0,0,51
+OPP-0054,Account 138,Taylor Smith,West,Healthcare,Inbound,Closed Won,95100,1.0,Closed,2026-08-19,2026-08-08,2026-08-27,23,15,95100.0,0,0,13
+OPP-0055,Account 154,Avery Johnson,Central,Manufacturing,Referral,Closed Won,28600,1.0,Closed,2026-05-28,2026-09-03,2026-08-07,106,35,28600.0,0,0,35
+OPP-0056,Account 082,Riley Wilson,East,Retail,Paid Search,Negotiation,143800,0.8,Commit,2026-06-20,2026-09-27,2026-08-05,83,37,115040.0,1,0,38
+OPP-0057,Account 177,Avery Johnson,West,Healthcare,Inbound,Prospecting,32100,0.1,Pipeline,2026-03-27,2026-11-21,2026-07-28,168,45,3210.0,1,0,67
+OPP-0058,Account 089,Riley Wilson,East,Retail,Outbound,Closed Lost,16000,0.0,Omitted,2026-02-12,2026-03-24,2026-08-01,211,41,0.0,0,0,71
+OPP-0059,Account 053,Jordan Lee,East,Financial Services,Outbound,Closed Won,67600,1.0,Closed,2026-08-25,2026-08-03,2026-09-08,17,3,67600.0,0,0,4
+OPP-0060,Account 008,Jordan Lee,Central,Financial Services,Webinar,Discovery,72900,0.4,Best Case,2026-03-29,2026-09-23,2026-08-03,166,39,29160.0,1,0,57
+OPP-0061,Account 088,Riley Wilson,West,Retail,Inbound,Prospecting,22100,0.1,Pipeline,2026-05-14,2026-10-03,2026-07-14,120,59,2210.0,1,0,71
+OPP-0062,Account 023,Jordan Lee,East,Retail,Outbound,Prospecting,66600,0.1,Pipeline,2026-08-16,2026-10-28,2026-09-10,26,1,6660.0,0,0,22
+OPP-0063,Account 059,Avery Johnson,Central,Technology,Referral,Closed Won,52400,1.0,Closed,2026-06-11,2026-07-25,2026-09-11,92,0,52400.0,0,0,10
+OPP-0064,Account 082,Jordan Lee,West,Retail,Outbound,Discovery,70100,0.4,Best Case,2026-04-27,2026-10-30,2026-08-15,137,27,28040.0,1,0,46
+OPP-0065,Account 109,Riley Wilson,West,Financial Services,Inbound,Qualification,13000,0.2,Pipeline,2026-04-19,2026-10-03,2026-07-31,145,42,2600.0,1,0,60
+OPP-0066,Account 149,Morgan Davis,West,Healthcare,Inbound,Closed Lost,42100,0.0,Omitted,2026-07-12,2026-07-19,2026-07-18,61,55,0.0,0,0,64
+OPP-0067,Account 157,Riley Wilson,East,Technology,Referral,Negotiation,53700,0.8,Commit,2026-05-12,2026-12-15,2026-07-18,122,55,42960.0,1,0,55
+OPP-0068,Account 051,Taylor Smith,West,Professional Services,Outbound,Discovery,45200,0.4,Best Case,2026-07-12,2026-11-01,2026-07-22,61,51,18080.0,1,0,53
+OPP-0069,Account 119,Taylor Smith,West,Manufacturing,Webinar,Proposal,63100,0.6,Best Case,2026-08-26,2026-10-20,2026-08-31,16,11,37860.0,0,0,17
+OPP-0070,Account 101,Morgan Davis,Central,Manufacturing,Referral,Proposal,44000,0.6,Best Case,2026-04-12,2026-11-10,2026-08-22,152,20,26400.0,0,0,39
+OPP-0071,Account 034,Morgan Davis,West,Healthcare,Paid Search,Discovery,22800,0.4,Best Case,2026-02-23,2026-09-25,2026-08-14,200,28,9120.0,1,0,53
+OPP-0072,Account 080,Avery Johnson,Central,Professional Services,Webinar,Closed Won,36800,1.0,Closed,2026-08-08,2026-08-16,2026-08-24,34,18,36800.0,0,0,16
+OPP-0073,Account 047,Casey Brown,East,Professional Services,Paid Search,Closed Won,17600,1.0,Closed,2026-03-15,2026-06-08,2026-09-05,180,6,17600.0,0,0,24
+OPP-0074,Account 088,Jordan Lee,Central,Professional Services,Paid Search,Proposal,39300,0.6,Best Case,2026-02-19,2026-09-11,2026-07-17,204,56,23580.0,1,0,69
+OPP-0075,Account 105,Morgan Davis,West,Financial Services,Inbound,Prospecting,32000,0.1,Pipeline,2026-07-01,2026-09-10,2026-08-29,72,13,3200.0,0,1,60
+OPP-0076,Account 090,Riley Wilson,East,Manufacturing,Webinar,Closed Won,13000,1.0,Closed,2026-05-28,2026-07-18,2026-08-10,106,32,13000.0,0,0,33
+OPP-0077,Account 134,Taylor Smith,Central,Professional Services,Referral,Qualification,29600,0.2,Pipeline,2026-03-11,2026-12-18,2026-07-14,184,59,5920.0,1,0,76
+OPP-0078,Account 064,Jordan Lee,East,Healthcare,Referral,Proposal,85800,0.6,Best Case,2026-08-23,2026-11-24,2026-09-04,19,7,51480.0,0,0,15
+OPP-0079,Account 156,Casey Brown,West,Retail,Partner,Closed Lost,26900,0.0,Omitted,2026-07-01,2026-07-17,2026-08-13,72,29,0.0,0,0,48
+OPP-0080,Account 089,Riley Wilson,West,Financial Services,Webinar,Negotiation,12800,0.8,Commit,2026-05-02,2026-12-06,2026-08-14,132,28,10240.0,1,0,38
+OPP-0081,Account 049,Taylor Smith,East,Manufacturing,Inbound,Closed Won,54100,1.0,Closed,2026-03-23,2026-07-18,2026-07-28,172,45,54100.0,0,0,50
+OPP-0082,Account 113,Avery Johnson,West,Healthcare,Paid Search,Negotiation,72200,0.8,Commit,2026-06-05,2026-09-18,2026-07-20,98,53,57760.0,1,0,50
+OPP-0083,Account 141,Morgan Davis,East,Retail,Paid Search,Prospecting,13600,0.1,Pipeline,2026-05-21,2026-11-10,2026-08-24,113,18,1360.0,0,0,43
+OPP-0084,Account 028,Riley Wilson,East,Retail,Partner,Negotiation,65700,0.8,Commit,2026-05-09,2026-10-14,2026-07-29,125,44,52560.0,1,0,48
+OPP-0085,Account 069,Morgan Davis,East,Financial Services,Inbound,Qualification,77100,0.2,Pipeline,2026-03-14,2026-11-10,2026-07-17,181,56,15420.0,1,0,74
+OPP-0086,Account 062,Avery Johnson,East,Professional Services,Webinar,Negotiation,36300,0.8,Commit,2026-03-30,2026-09-21,2026-08-02,165,40,29040.0,1,0,49
+OPP-0087,Account 073,Riley Wilson,Central,Professional Services,Paid Search,Closed Won,33700,1.0,Closed,2026-05-22,2026-07-31,2026-08-19,112,23,33700.0,0,0,28
+OPP-0088,Account 160,Morgan Davis,West,Manufacturing,Partner,Proposal,59500,0.6,Best Case,2026-08-09,2026-10-05,2026-08-26,33,16,35700.0,0,0,22
+OPP-0089,Account 119,Avery Johnson,East,Retail,Partner,Proposal,18900,0.6,Best Case,2026-07-07,2026-12-03,2026-07-13,66,60,11340.0,1,0,56
+OPP-0090,Account 112,Casey Brown,East,Healthcare,Webinar,Proposal,45500,0.6,Best Case,2026-05-29,2026-10-03,2026-09-07,105,4,27300.0,0,0,23
+OPP-0091,Account 023,Casey Brown,Central,Professional Services,Referral,Qualification,39200,0.2,Pipeline,2026-06-11,2026-09-16,2026-07-17,92,56,7840.0,1,0,64
+OPP-0092,Account 125,Avery Johnson,West,Retail,Webinar,Discovery,16300,0.4,Best Case,2026-06-29,2026-11-22,2026-08-03,74,39,6520.0,1,0,46
+OPP-0093,Account 089,Morgan Davis,East,Technology,Outbound,Qualification,47400,0.2,Pipeline,2026-05-03,2026-11-15,2026-08-24,131,18,9480.0,0,0,43
+OPP-0094,Account 015,Morgan Davis,East,Manufacturing,Referral,Proposal,38000,0.6,Best Case,2026-07-13,2026-11-28,2026-08-15,60,27,22800.0,1,0,33
+OPP-0095,Account 111,Riley Wilson,West,Manufacturing,Inbound,Discovery,52000,0.4,Best Case,2026-08-14,2026-11-26,2026-08-22,28,20,20800.0,0,0,29
+OPP-0096,Account 088,Casey Brown,Central,Retail,Partner,Qualification,36200,0.2,Pipeline,2026-06-23,2026-11-16,2026-07-21,80,52,7240.0,1,0,60
+OPP-0097,Account 179,Riley Wilson,Central,Healthcare,Inbound,Closed Won,68000,1.0,Closed,2026-07-30,2026-08-15,2026-08-25,43,17,68000.0,0,0,16
+OPP-0098,Account 152,Jordan Lee,West,Retail,Referral,Negotiation,23600,0.8,Commit,2026-07-31,2026-11-29,2026-09-11,42,0,18880.0,0,0,9
+OPP-0099,Account 138,Morgan Davis,Central,Healthcare,Paid Search,Closed Won,33400,1.0,Closed,2026-07-17,2026-08-29,2026-09-03,56,8,33400.0,0,0,12
+OPP-0100,Account 036,Morgan Davis,Central,Financial Services,Outbound,Discovery,28200,0.4,Best Case,2026-03-11,2026-09-06,2026-08-05,184,37,11280.0,1,1,83
+OPP-0101,Account 143,Riley Wilson,West,Healthcare,Inbound,Prospecting,30400,0.1,Pipeline,2026-04-28,2026-09-23,2026-09-11,136,0,3040.0,0,0,33
+OPP-0102,Account 070,Riley Wilson,East,Professional Services,Inbound,Qualification,22300,0.2,Pipeline,2026-02-05,2026-08-26,2026-07-16,218,57,4460.0,1,1,100
+OPP-0103,Account 104,Morgan Davis,East,Professional Services,Outbound,Negotiation,24800,0.8,Commit,2026-04-08,2026-08-18,2026-09-01,156,10,19840.0,0,1,53
+OPP-0104,Account 004,Morgan Davis,Central,Professional Services,Paid Search,Closed Won,46900,1.0,Closed,2026-04-10,2026-07-16,2026-08-10,154,32,46900.0,0,0,39
+OPP-0105,Account 161,Jordan Lee,West,Healthcare,Webinar,Discovery,100400,0.4,Best Case,2026-03-09,2026-10-12,2026-08-26,186,16,40160.0,0,0,44
+OPP-0106,Account 094,Morgan Davis,West,Technology,Outbound,Negotiation,88000,0.8,Commit,2026-06-12,2026-09-13,2026-08-15,91,27,70400.0,1,0,32
+OPP-0107,Account 011,Morgan Davis,East,Manufacturing,Outbound,Closed Won,26900,1.0,Closed,2026-06-16,2026-08-15,2026-07-16,87,57,26900.0,0,0,48
+OPP-0108,Account 076,Jordan Lee,West,Healthcare,Webinar,Closed Lost,29800,0.0,Omitted,2026-03-16,2026-05-27,2026-07-31,179,42,0.0,0,0,68
+OPP-0109,Account 139,Avery Johnson,Central,Retail,Partner,Proposal,86500,0.6,Best Case,2026-08-17,2027-01-02,2026-09-10,25,1,51900.0,0,0,12
+OPP-0110,Account 118,Casey Brown,East,Healthcare,Paid Search,Proposal,85900,0.6,Best Case,2026-02-28,2026-12-11,2026-08-05,195,37,51540.0,1,0,55
+OPP-0111,Account 173,Riley Wilson,West,Professional Services,Referral,Qualification,55000,0.2,Pipeline,2026-06-08,2026-11-08,2026-09-04,95,7,11000.0,0,0,31
+OPP-0112,Account 177,Casey Brown,West,Financial Services,Outbound,Negotiation,15200,0.8,Commit,2026-03-23,2026-10-29,2026-08-08,172,34,12160.0,1,0,46
+OPP-0113,Account 147,Casey Brown,West,Healthcare,Inbound,Closed Won,44100,1.0,Closed,2026-06-16,2026-09-05,2026-07-19,87,54,44100.0,0,0,46
+OPP-0114,Account 059,Taylor Smith,Central,Professional Services,Outbound,Closed Won,54600,1.0,Closed,2026-05-14,2026-07-14,2026-08-09,120,33,54600.0,0,0,36
+OPP-0115,Account 045,Morgan Davis,Central,Manufacturing,Outbound,Closed Lost,34100,0.0,Omitted,2026-04-15,2026-06-18,2026-07-29,149,44,0.0,0,0,66
+OPP-0116,Account 051,Morgan Davis,Central,Manufacturing,Referral,Closed Won,28000,1.0,Closed,2026-08-14,2026-07-21,2026-08-26,28,16,28000.0,0,0,14
+OPP-0117,Account 095,Avery Johnson,West,Manufacturing,Paid Search,Discovery,51500,0.4,Best Case,2026-02-11,2026-11-02,2026-07-30,212,43,20600.0,1,0,65
+OPP-0118,Account 025,Taylor Smith,Central,Professional Services,Inbound,Proposal,66100,0.6,Best Case,2026-07-01,2026-12-03,2026-08-08,72,34,39660.0,1,0,39
+OPP-0119,Account 115,Taylor Smith,West,Retail,Referral,Prospecting,14600,0.1,Pipeline,2026-05-21,2026-12-07,2026-08-27,113,15,1460.0,0,0,41
+OPP-0120,Account 166,Avery Johnson,East,Manufacturing,Partner,Negotiation,33200,0.8,Commit,2026-08-06,2026-11-27,2026-08-11,36,31,26560.0,1,0,29
+OPP-0121,Account 025,Riley Wilson,Central,Retail,Partner,Closed Won,14300,1.0,Closed,2026-06-22,2026-07-14,2026-09-04,81,7,14300.0,0,0,14
+OPP-0122,Account 130,Casey Brown,East,Retail,Webinar,Closed Won,27700,1.0,Closed,2026-08-27,2026-07-13,2026-08-27,15,15,27700.0,0,0,12
+OPP-0123,Account 155,Taylor Smith,West,Professional Services,Inbound,Proposal,128800,0.6,Best Case,2026-06-24,2026-10-28,2026-09-09,79,2,77280.0,0,0,18
+OPP-0124,Account 157,Taylor Smith,Central,Healthcare,Paid Search,Negotiation,17700,0.8,Commit,2026-07-22,2026-10-11,2026-09-02,51,9,14160.0,0,0,16
+OPP-0125,Account 017,Avery Johnson,Central,Healthcare,Partner,Negotiation,56800,0.8,Commit,2026-05-11,2026-12-16,2026-07-29,123,44,45440.0,1,0,47
+OPP-0126,Account 038,Morgan Davis,Central,Financial Services,Inbound,Proposal,97700,0.6,Best Case,2026-07-08,2026-11-24,2026-09-05,65,6,58620.0,0,0,19
+OPP-0127,Account 160,Avery Johnson,East,Professional Services,Referral,Prospecting,151700,0.1,Pipeline,2026-03-27,2026-09-07,2026-08-24,168,18,15170.0,0,1,74
+OPP-0128,Account 036,Jordan Lee,East,Retail,Referral,Closed Lost,28800,0.0,Omitted,2026-02-23,2026-06-18,2026-07-14,200,59,0.0,0,0,82
+OPP-0129,Account 151,Morgan Davis,East,Manufacturing,Partner,Discovery,25100,0.4,Best Case,2026-06-06,2026-10-13,2026-07-31,97,42,10040.0,1,0,51
+OPP-0130,Account 148,Riley Wilson,Central,Financial Services,Inbound,Discovery,161900,0.4,Best Case,2026-05-19,2026-11-30,2026-08-27,115,15,64760.0,0,0,35
+OPP-0131,Account 154,Casey Brown,East,Retail,Partner,Qualification,54900,0.2,Pipeline,2026-07-14,2026-11-08,2026-08-05,59,37,10980.0,1,0,47
+OPP-0132,Account 010,Jordan Lee,West,Financial Services,Outbound,Closed Won,36400,1.0,Closed,2026-04-17,2026-06-03,2026-08-09,147,33,36400.0,0,0,39
+OPP-0133,Account 133,Jordan Lee,West,Professional Services,Referral,Prospecting,53600,0.1,Pipeline,2026-06-08,2026-11-27,2026-07-19,95,54,5360.0,1,0,65
+OPP-0134,Account 039,Riley Wilson,West,Manufacturing,Partner,Closed Won,55200,1.0,Closed,2026-04-13,2026-08-11,2026-07-24,151,49,55200.0,0,0,50
+OPP-0135,Account 179,Avery Johnson,East,Professional Services,Partner,Prospecting,54100,0.1,Pipeline,2026-05-09,2026-08-27,2026-08-25,125,17,5410.0,0,1,69
+OPP-0136,Account 074,Avery Johnson,West,Manufacturing,Inbound,Closed Won,41900,1.0,Closed,2026-08-28,2026-09-08,2026-09-04,14,7,41900.0,0,0,6
+OPP-0137,Account 132,Morgan Davis,West,Manufacturing,Paid Search,Closed Won,72100,1.0,Closed,2026-08-25,2026-09-08,2026-09-03,17,8,72100.0,0,0,7
+OPP-0138,Account 006,Casey Brown,West,Financial Services,Inbound,Closed Won,14400,1.0,Closed,2026-02-08,2026-03-21,2026-07-28,215,45,14400.0,0,0,54
+OPP-0139,Account 096,Riley Wilson,West,Technology,Inbound,Negotiation,37300,0.8,Commit,2026-03-20,2026-12-17,2026-08-04,175,38,29840.0,1,0,49
+OPP-0140,Account 086,Casey Brown,Central,Manufacturing,Outbound,Discovery,23000,0.4,Best Case,2026-03-15,2026-12-17,2026-08-30,180,12,9200.0,0,0,40
+OPP-0141,Account 165,Morgan Davis,Central,Manufacturing,Outbound,Negotiation,66700,0.8,Commit,2026-08-03,2026-11-03,2026-09-07,39,4,53360.0,0,0,11
+OPP-0142,Account 088,Riley Wilson,West,Healthcare,Outbound,Negotiation,91800,0.8,Commit,2026-06-25,2026-11-04,2026-07-16,78,57,73440.0,1,0,51
+OPP-0143,Account 147,Jordan Lee,Central,Retail,Outbound,Closed Won,78500,1.0,Closed,2026-02-28,2026-04-25,2026-08-31,195,11,78500.0,0,0,29
+OPP-0144,Account 154,Casey Brown,East,Manufacturing,Outbound,Closed Lost,45400,0.0,Omitted,2026-02-09,2026-05-22,2026-08-01,214,41,0.0,0,0,72
+OPP-0145,Account 173,Jordan Lee,West,Financial Services,Referral,Closed Won,41800,1.0,Closed,2026-08-25,2026-07-27,2026-09-11,17,0,41800.0,0,0,2
+OPP-0146,Account 180,Morgan Davis,Central,Manufacturing,Webinar,Closed Lost,140800,0.0,Omitted,2026-04-21,2026-06-29,2026-08-16,143,26,0.0,0,0,54
+OPP-0147,Account 065,Casey Brown,Central,Professional Services,Referral,Closed Lost,43900,0.0,Omitted,2026-04-04,2026-07-07,2026-09-09,160,2,0.0,0,0,40
+OPP-0148,Account 164,Avery Johnson,West,Technology,Inbound,Closed Won,55000,1.0,Closed,2026-03-29,2026-07-26,2026-08-13,166,29,55000.0,0,0,38
+OPP-0149,Account 169,Jordan Lee,West,Manufacturing,Inbound,Negotiation,64500,0.8,Commit,2026-08-28,2026-11-07,2026-09-04,14,7,51600.0,0,0,10
+OPP-0150,Account 100,Jordan Lee,West,Professional Services,Webinar,Qualification,55700,0.2,Pipeline,2026-02-25,2026-11-07,2026-09-06,198,5,11140.0,0,0,42
+OPP-0151,Account 156,Riley Wilson,Central,Professional Services,Outbound,Closed Lost,39200,0.0,Omitted,2026-04-20,2026-07-20,2026-07-29,144,44,0.0,0,0,66
+OPP-0152,Account 077,Taylor Smith,Central,Financial Services,Webinar,Discovery,44100,0.4,Best Case,2026-08-16,2026-11-11,2026-09-01,26,10,17640.0,0,0,22
+OPP-0153,Account 107,Jordan Lee,Central,Healthcare,Partner,Closed Won,20300,1.0,Closed,2026-07-15,2026-07-16,2026-08-10,58,32,20300.0,0,0,28
+OPP-0154,Account 079,Riley Wilson,Central,Manufacturing,Partner,Closed Won,28700,1.0,Closed,2026-08-01,2026-08-03,2026-08-13,41,29,28700.0,0,0,24
+OPP-0155,Account 136,Avery Johnson,West,Financial Services,Paid Search,Closed Lost,24600,0.0,Omitted,2026-05-25,2026-08-22,2026-08-17,109,25,0.0,0,0,49
+OPP-0156,Account 007,Taylor Smith,East,Professional Services,Webinar,Qualification,39000,0.2,Pipeline,2026-06-13,2026-12-03,2026-08-21,90,21,7800.0,1,0,40
+OPP-0157,Account 171,Morgan Davis,West,Manufacturing,Inbound,Prospecting,37100,0.1,Pipeline,2026-06-02,2026-10-30,2026-07-13,101,60,3710.0,1,0,69
+OPP-0158,Account 097,Riley Wilson,East,Manufacturing,Webinar,Prospecting,100400,0.1,Pipeline,2026-08-13,2026-12-12,2026-09-04,29,7,10040.0,0,0,26
+OPP-0159,Account 112,Jordan Lee,Central,Financial Services,Outbound,Proposal,161500,0.6,Best Case,2026-03-18,2026-08-31,2026-08-06,177,36,96900.0,1,1,77
+OPP-0160,Account 080,Jordan Lee,West,Technology,Partner,Proposal,35800,0.6,Best Case,2026-04-01,2026-11-01,2026-08-22,163,20,21480.0,0,0,40
+OPP-0161,Account 012,Riley Wilson,West,Manufacturing,Webinar,Closed Won,35900,1.0,Closed,2026-08-29,2026-08-26,2026-09-08,13,3,35900.0,0,0,3
+OPP-0162,Account 092,Taylor Smith,East,Technology,Referral,Closed Won,42900,1.0,Closed,2026-02-19,2026-06-14,2026-08-12,204,30,42900.0,0,0,43
+OPP-0163,Account 116,Avery Johnson,West,Professional Services,Outbound,Proposal,26300,0.6,Best Case,2026-07-09,2026-12-04,2026-08-08,64,34,15780.0,1,0,38
+OPP-0164,Account 024,Taylor Smith,West,Professional Services,Inbound,Qualification,53400,0.2,Pipeline,2026-03-11,2026-08-19,2026-07-20,184,53,10680.0,1,1,97
+OPP-0165,Account 068,Casey Brown,East,Professional Services,Inbound,Qualification,14700,0.2,Pipeline,2026-08-18,2026-10-24,2026-09-05,24,6,2940.0,0,0,23
+OPP-0166,Account 106,Morgan Davis,West,Retail,Referral,Closed Won,43900,1.0,Closed,2026-08-05,2026-07-22,2026-08-27,37,15,43900.0,0,0,14
+OPP-0167,Account 016,Casey Brown,East,Manufacturing,Outbound,Prospecting,26200,0.1,Pipeline,2026-07-18,2026-10-22,2026-07-22,55,51,2620.0,1,0,58
+OPP-0168,Account 155,Casey Brown,West,Manufacturing,Partner,Proposal,136100,0.6,Best Case,2026-08-17,2026-12-03,2026-08-20,25,22,81660.0,1,0,26
+OPP-0169,Account 036,Taylor Smith,Central,Retail,Partner,Discovery,33900,0.4,Best Case,2026-02-15,2026-12-09,2026-09-10,208,1,13560.0,0,0,36
+OPP-0170,Account 136,Morgan Davis,West,Professional Services,Paid Search,Discovery,191700,0.4,Best Case,2026-07-29,2026-11-22,2026-08-11,44,31,76680.0,1,0,38
+OPP-0171,Account 048,Riley Wilson,Central,Retail,Outbound,Proposal,32300,0.6,Best Case,2026-06-14,2026-10-03,2026-08-31,89,11,19380.0,0,0,25
+OPP-0172,Account 096,Riley Wilson,Central,Financial Services,Referral,Proposal,39600,0.6,Best Case,2026-03-25,2026-09-25,2026-07-21,170,52,23760.0,1,0,62
+OPP-0173,Account 154,Avery Johnson,East,Professional Services,Outbound,Negotiation,93100,0.8,Commit,2026-08-06,2026-10-27,2026-09-06,36,5,74480.0,0,0,11
+OPP-0174,Account 100,Taylor Smith,East,Retail,Inbound,Prospecting,39500,0.1,Pipeline,2026-06-22,2026-10-21,2026-09-03,81,8,3950.0,0,0,33
+OPP-0175,Account 024,Casey Brown,West,Technology,Referral,Qualification,133600,0.2,Pipeline,2026-07-07,2026-11-13,2026-08-30,66,12,26720.0,0,0,32
+OPP-0176,Account 016,Casey Brown,Central,Financial Services,Outbound,Closed Lost,24100,0.0,Omitted,2026-06-11,2026-08-17,2026-07-13,92,60,0.0,0,0,70
+OPP-0177,Account 147,Casey Brown,East,Professional Services,Referral,Prospecting,49500,0.1,Pipeline,2026-04-01,2026-10-10,2026-08-29,163,13,4950.0,0,0,45
+OPP-0178,Account 164,Morgan Davis,East,Financial Services,Referral,Proposal,25800,0.6,Best Case,2026-03-03,2026-11-04,2026-08-24,192,18,15480.0,0,0,42
+OPP-0179,Account 059,Avery Johnson,Central,Technology,Inbound,Qualification,32300,0.2,Pipeline,2026-06-19,2026-11-18,2026-08-23,84,19,6460.0,0,0,38
+OPP-0180,Account 122,Morgan Davis,Central,Professional Services,Outbound,Qualification,94700,0.2,Pipeline,2026-04-10,2026-12-09,2026-07-16,154,57,18940.0,1,0,72
+OPP-0181,Account 012,Jordan Lee,West,Manufacturing,Partner,Proposal,95500,0.6,Best Case,2026-02-19,2026-11-12,2026-09-03,204,8,57300.0,0,0,37
+OPP-0182,Account 026,Morgan Davis,West,Manufacturing,Inbound,Negotiation,67600,0.8,Commit,2026-03-06,2026-11-24,2026-09-04,189,7,54080.0,0,0,30
+OPP-0183,Account 119,Taylor Smith,Central,Retail,Webinar,Discovery,58500,0.4,Best Case,2026-03-14,2026-10-06,2026-07-26,181,47,23400.0,1,0,64
+OPP-0184,Account 043,Avery Johnson,Central,Professional Services,Referral,Prospecting,30500,0.1,Pipeline,2026-07-05,2026-10-15,2026-08-11,68,31,3050.0,1,0,46
+OPP-0185,Account 008,Riley Wilson,East,Financial Services,Webinar,Proposal,22300,0.6,Best Case,2026-03-26,2026-12-11,2026-07-16,169,57,13380.0,1,0,65
+OPP-0186,Account 160,Riley Wilson,East,Technology,Inbound,Closed Won,18100,1.0,Closed,2026-08-08,2026-08-25,2026-09-01,34,10,18100.0,0,0,11
+OPP-0187,Account 089,Jordan Lee,Central,Healthcare,Webinar,Negotiation,68100,0.8,Commit,2026-06-08,2026-10-15,2026-08-15,95,27,54480.0,1,0,33
+OPP-0188,Account 080,Jordan Lee,West,Retail,Partner,Negotiation,19500,0.8,Commit,2026-03-03,2026-09-22,2026-09-04,192,7,15600.0,0,0,30
+OPP-0189,Account 057,Casey Brown,Central,Manufacturing,Webinar,Negotiation,24700,0.8,Commit,2026-02-27,2026-11-12,2026-08-07,196,35,19760.0,1,0,50
+OPP-0190,Account 169,Avery Johnson,West,Professional Services,Outbound,Negotiation,31800,0.8,Commit,2026-05-20,2026-09-09,2026-09-05,114,6,25440.0,0,1,46
+OPP-0191,Account 079,Casey Brown,Central,Professional Services,Inbound,Qualification,44300,0.2,Pipeline,2026-05-15,2026-09-26,2026-08-05,119,37,8860.0,1,0,54
+OPP-0192,Account 172,Casey Brown,East,Retail,Outbound,Discovery,61300,0.4,Best Case,2026-03-27,2026-11-05,2026-07-18,168,55,24520.0,1,0,68
+OPP-0193,Account 028,Morgan Davis,West,Retail,Referral,Prospecting,51000,0.1,Pipeline,2026-08-20,2026-10-24,2026-09-04,22,7,5100.0,0,0,25
+OPP-0194,Account 157,Taylor Smith,East,Technology,Inbound,Qualification,20700,0.2,Pipeline,2026-08-04,2026-12-19,2026-08-20,38,22,4140.0,1,0,35
+OPP-0195,Account 013,Riley Wilson,Central,Manufacturing,Outbound,Proposal,131800,0.6,Best Case,2026-07-19,2026-12-10,2026-09-08,54,3,79080.0,0,0,16
+OPP-0196,Account 140,Casey Brown,East,Healthcare,Outbound,Discovery,15400,0.4,Best Case,2026-05-08,2026-10-25,2026-08-06,126,36,6160.0,1,0,50
+OPP-0197,Account 127,Jordan Lee,East,Retail,Partner,Closed Lost,15300,0.0,Omitted,2026-07-30,2026-08-23,2026-08-16,43,26,0.0,0,0,42
+OPP-0198,Account 068,Taylor Smith,West,Technology,Outbound,Negotiation,35500,0.8,Commit,2026-06-13,2026-11-30,2026-08-18,90,24,28400.0,1,0,30
+OPP-0199,Account 005,Jordan Lee,Central,Technology,Outbound,Negotiation,42700,0.8,Commit,2026-04-15,2026-10-14,2026-08-03,149,39,34160.0,1,0,47
+OPP-0200,Account 002,Taylor Smith,East,Manufacturing,Paid Search,Qualification,17400,0.2,Pipeline,2026-05-27,2026-11-11,2026-08-30,107,12,3480.0,0,0,36
+OPP-0201,Account 019,Avery Johnson,Central,Manufacturing,Referral,Closed Lost,22200,0.0,Omitted,2026-08-13,2026-09-09,2026-08-31,29,11,0.0,0,0,31
+OPP-0202,Account 111,Morgan Davis,Central,Healthcare,Webinar,Proposal,80800,0.6,Best Case,2026-06-22,2026-09-25,2026-07-14,81,59,48480.0,1,0,57
+OPP-0203,Account 008,Riley Wilson,West,Professional Services,Inbound,Closed Won,29700,1.0,Closed,2026-03-06,2026-05-05,2026-08-04,189,38,29700.0,0,0,47
+OPP-0204,Account 140,Casey Brown,Central,Financial Services,Paid Search,Proposal,225300,0.6,Best Case,2026-07-27,2026-09-25,2026-09-10,46,1,135180.0,0,0,14
+OPP-0205,Account 054,Taylor Smith,West,Healthcare,Outbound,Closed Won,20300,1.0,Closed,2026-06-07,2026-08-14,2026-08-21,96,21,20300.0,0,0,25
+OPP-0206,Account 166,Morgan Davis,West,Manufacturing,Referral,Prospecting,35000,0.1,Pipeline,2026-08-17,2027-01-12,2026-08-17,25,25,3500.0,1,0,38
+OPP-0207,Account 025,Taylor Smith,East,Technology,Webinar,Closed Lost,50300,0.0,Omitted,2026-04-02,2026-07-13,2026-07-18,162,55,0.0,0,0,75
+OPP-0208,Account 017,Taylor Smith,Central,Healthcare,Webinar,Closed Won,21800,1.0,Closed,2026-07-23,2026-09-02,2026-08-20,50,22,21800.0,0,0,20
+OPP-0209,Account 162,Jordan Lee,East,Professional Services,Inbound,Discovery,64900,0.4,Best Case,2026-04-30,2026-09-22,2026-08-04,134,38,25960.0,1,0,53
+OPP-0210,Account 065,Morgan Davis,East,Financial Services,Inbound,Closed Won,22800,1.0,Closed,2026-04-10,2026-06-03,2026-07-18,154,55,22800.0,0,0,54
+OPP-0211,Account 097,Avery Johnson,East,Technology,Partner,Closed Won,35700,1.0,Closed,2026-05-29,2026-07-31,2026-08-05,105,37,35700.0,0,0,37
+OPP-0212,Account 028,Casey Brown,East,Manufacturing,Outbound,Closed Won,150600,1.0,Closed,2026-06-05,2026-08-09,2026-07-26,98,47,150600.0,0,0,42
+OPP-0213,Account 007,Casey Brown,East,Manufacturing,Referral,Qualification,80100,0.2,Pipeline,2026-08-27,2027-01-04,2026-09-10,15,1,16020.0,0,0,18
+OPP-0214,Account 063,Morgan Davis,Central,Manufacturing,Inbound,Negotiation,35000,0.8,Commit,2026-04-15,2026-09-25,2026-08-15,149,27,28000.0,1,0,39
+OPP-0215,Account 145,Casey Brown,Central,Manufacturing,Inbound,Prospecting,16700,0.1,Pipeline,2026-06-20,2026-09-22,2026-08-18,83,24,1670.0,1,0,43
+OPP-0216,Account 073,Morgan Davis,Central,Professional Services,Referral,Negotiation,18100,0.8,Commit,2026-05-03,2026-10-16,2026-07-21,131,52,14480.0,1,0,54
+OPP-0217,Account 105,Morgan Davis,Central,Healthcare,Webinar,Proposal,32000,0.6,Best Case,2026-02-14,2026-11-27,2026-08-25,209,17,19200.0,0,0,43
+OPP-0218,Account 149,Taylor Smith,East,Professional Services,Partner,Discovery,18900,0.4,Best Case,2026-05-21,2026-10-26,2026-09-11,113,0,7560.0,0,0,25
+OPP-0219,Account 144,Riley Wilson,West,Manufacturing,Webinar,Prospecting,20000,0.1,Pipeline,2026-02-26,2026-09-10,2026-08-31,197,11,2000.0,0,1,73
+OPP-0220,Account 093,Taylor Smith,East,Retail,Paid Search,Qualification,24900,0.2,Pipeline,2026-05-05,2026-09-07,2026-08-30,129,12,4980.0,0,1,64
+OPP-0221,Account 171,Avery Johnson,West,Healthcare,Referral,Negotiation,47000,0.8,Commit,2026-08-11,2026-11-15,2026-08-29,31,13,37600.0,0,0,16
+OPP-0222,Account 177,Jordan Lee,Central,Technology,Outbound,Prospecting,78700,0.1,Pipeline,2026-03-20,2026-08-22,2026-08-29,175,13,7870.0,0,1,72
+OPP-0223,Account 032,Riley Wilson,West,Healthcare,Referral,Closed Won,22100,1.0,Closed,2026-05-29,2026-07-21,2026-08-23,105,19,22100.0,0,0,25
+OPP-0224,Account 173,Morgan Davis,East,Technology,Inbound,Proposal,57500,0.6,Best Case,2026-03-01,2026-10-04,2026-08-30,194,12,34500.0,0,0,38
+OPP-0225,Account 044,Casey Brown,West,Retail,Webinar,Prospecting,39000,0.1,Pipeline,2026-08-25,2026-11-13,2026-09-08,17,3,3900.0,0,0,22
+OPP-0226,Account 055,Taylor Smith,East,Manufacturing,Inbound,Discovery,30300,0.4,Best Case,2026-03-31,2026-10-05,2026-07-20,164,53,12120.0,1,0,66
+OPP-0227,Account 139,Morgan Davis,Central,Professional Services,Paid Search,Discovery,30900,0.4,Best Case,2026-04-09,2026-11-29,2026-09-10,155,1,12360.0,0,0,30
+OPP-0228,Account 157,Casey Brown,West,Professional Services,Outbound,Proposal,11200,0.6,Best Case,2026-08-16,2026-12-08,2026-09-05,26,6,6720.0,0,0,15
+OPP-0229,Account 166,Morgan Davis,West,Financial Services,Referral,Proposal,70600,0.6,Best Case,2026-02-21,2026-10-17,2026-08-27,202,15,42360.0,0,0,41
+OPP-0230,Account 135,Avery Johnson,West,Professional Services,Paid Search,Closed Won,99000,1.0,Closed,2026-02-26,2026-06-11,2026-08-20,197,22,99000.0,0,0,37
+OPP-0231,Account 126,Jordan Lee,West,Retail,Webinar,Negotiation,125400,0.8,Commit,2026-03-25,2026-11-22,2026-07-31,170,42,100320.0,1,0,51
+OPP-0232,Account 048,Casey Brown,Central,Professional Services,Partner,Qualification,50500,0.2,Pipeline,2026-05-07,2026-10-27,2026-08-30,127,12,10100.0,0,0,38
+OPP-0233,Account 158,Casey Brown,West,Professional Services,Partner,Closed Won,10000,1.0,Closed,2026-08-10,2026-07-29,2026-09-05,32,6,10000.0,0,0,8
+OPP-0234,Account 056,Morgan Davis,Central,Technology,Referral,Negotiation,54000,0.8,Commit,2026-03-14,2026-12-13,2026-08-03,181,39,43200.0,1,0,51
+OPP-0235,Account 126,Jordan Lee,West,Financial Services,Webinar,Discovery,170300,0.4,Best Case,2026-04-03,2026-12-19,2026-07-26,161,47,68120.0,1,0,62
+OPP-0236,Account 083,Riley Wilson,West,Technology,Outbound,Negotiation,130200,0.8,Commit,2026-06-03,2026-09-27,2026-08-01,100,41,104160.0,1,0,43
+OPP-0237,Account 127,Morgan Davis,West,Retail,Inbound,Qualification,23100,0.2,Pipeline,2026-03-06,2026-12-03,2026-08-15,189,27,4620.0,1,0,55
+OPP-0238,Account 059,Riley Wilson,East,Technology,Paid Search,Discovery,35800,0.4,Best Case,2026-05-04,2026-11-22,2026-09-04,130,7,14320.0,0,0,31
+OPP-0239,Account 117,Morgan Davis,East,Financial Services,Paid Search,Prospecting,30300,0.1,Pipeline,2026-05-30,2026-08-20,2026-08-20,104,22,3030.0,1,1,69
+OPP-0240,Account 178,Morgan Davis,East,Professional Services,Outbound,Discovery,15300,0.4,Best Case,2026-05-07,2026-10-18,2026-08-21,127,21,6120.0,1,0,40
+OPP-0241,Account 050,Riley Wilson,West,Financial Services,Inbound,Proposal,21200,0.6,Best Case,2026-02-22,2026-10-12,2026-08-21,201,21,12720.0,1,0,45
+OPP-0242,Account 053,Taylor Smith,East,Technology,Paid Search,Closed Lost,60100,0.0,Omitted,2026-03-23,2026-06-24,2026-07-28,172,45,0.0,0,0,70
+OPP-0243,Account 013,Jordan Lee,East,Professional Services,Referral,Prospecting,66100,0.1,Pipeline,2026-02-16,2026-10-20,2026-07-31,207,42,6610.0,1,0,70
+OPP-0244,Account 036,Avery Johnson,West,Manufacturing,Inbound,Closed Lost,15400,0.0,Omitted,2026-03-31,2026-08-10,2026-07-31,164,42,0.0,0,0,67
+OPP-0245,Account 081,Riley Wilson,West,Manufacturing,Inbound,Discovery,66500,0.4,Best Case,2026-07-27,2026-12-08,2026-08-31,46,11,26600.0,0,0,25
+OPP-0246,Account 051,Jordan Lee,East,Manufacturing,Paid Search,Negotiation,49200,0.8,Commit,2026-04-20,2026-09-11,2026-08-06,144,36,39360.0,1,0,44
+OPP-0247,Account 101,Casey Brown,West,Manufacturing,Inbound,Discovery,124900,0.4,Best Case,2026-08-25,2026-11-12,2026-09-08,17,3,49960.0,0,0,16
+OPP-0248,Account 166,Jordan Lee,East,Manufacturing,Inbound,Closed Lost,86800,0.0,Omitted,2026-05-29,2026-09-07,2026-07-20,105,53,0.0,0,0,67
+OPP-0249,Account 032,Casey Brown,West,Manufacturing,Paid Search,Proposal,156300,0.6,Best Case,2026-04-15,2026-10-22,2026-08-15,149,27,93780.0,1,0,43
+OPP-0250,Account 058,Casey Brown,East,Retail,Inbound,Discovery,56400,0.4,Best Case,2026-04-23,2026-11-09,2026-09-08,141,3,22560.0,0,0,30
+OPP-0251,Account 030,Avery Johnson,East,Technology,Inbound,Negotiation,137300,0.8,Commit,2026-06-19,2026-10-11,2026-07-24,84,49,109840.0,1,0,46
+OPP-0252,Account 099,Avery Johnson,West,Financial Services,Webinar,Closed Won,78300,1.0,Closed,2026-06-06,2026-08-03,2026-07-16,97,57,78300.0,0,0,49
+OPP-0253,Account 152,Morgan Davis,West,Manufacturing,Outbound,Closed Won,28300,1.0,Closed,2026-05-30,2026-07-17,2026-07-13,104,60,28300.0,0,0,52
+OPP-0254,Account 174,Jordan Lee,West,Healthcare,Outbound,Discovery,7000,0.4,Best Case,2026-02-13,2026-09-20,2026-08-02,210,40,2800.0,1,0,63
+OPP-0255,Account 016,Riley Wilson,East,Professional Services,Outbound,Closed Won,37500,1.0,Closed,2026-07-11,2026-08-02,2026-09-11,62,0,37500.0,0,0,7
+OPP-0256,Account 022,Morgan Davis,East,Financial Services,Partner,Negotiation,28400,0.8,Commit,2026-03-19,2026-08-26,2026-08-09,176,33,22720.0,1,1,71
+OPP-0257,Account 139,Morgan Davis,Central,Professional Services,Paid Search,Proposal,45100,0.6,Best Case,2026-07-07,2026-09-01,2026-07-31,66,42,27060.0,1,1,68
+OPP-0258,Account 027,Taylor Smith,East,Financial Services,Webinar,Prospecting,102700,0.1,Pipeline,2026-08-22,2026-10-14,2026-09-09,20,2,10270.0,0,0,22
+OPP-0259,Account 123,Riley Wilson,West,Healthcare,Inbound,Closed Won,52000,1.0,Closed,2026-03-10,2026-05-25,2026-08-19,185,23,52000.0,0,0,36
+OPP-0260,Account 020,Avery Johnson,East,Financial Services,Outbound,Qualification,45300,0.2,Pipeline,2026-04-04,2026-09-26,2026-08-01,160,41,9060.0,1,0,62
+OPP-0261,Account 077,Riley Wilson,East,Technology,Inbound,Prospecting,59700,0.1,Pipeline,2026-03-14,2026-08-23,2026-08-22,181,20,5970.0,0,1,77
+OPP-0262,Account 048,Taylor Smith,Central,Financial Services,Partner,Closed Won,37500,1.0,Closed,2026-04-26,2026-07-31,2026-08-08,138,34,37500.0,0,0,38
+OPP-0263,Account 120,Taylor Smith,Central,Healthcare,Webinar,Discovery,42400,0.4,Best Case,2026-08-16,2026-11-15,2026-08-22,26,20,16960.0,0,0,28
+OPP-0264,Account 137,Avery Johnson,West,Healthcare,Referral,Closed Won,44100,1.0,Closed,2026-05-30,2026-08-04,2026-08-01,104,41,44100.0,0,0,39
+OPP-0265,Account 067,Morgan Davis,West,Technology,Referral,Negotiation,41400,0.8,Commit,2026-07-05,2026-12-15,2026-07-25,68,48,33120.0,1,0,44
+OPP-0266,Account 104,Jordan Lee,West,Financial Services,Inbound,Negotiation,24100,0.8,Commit,2026-07-25,2026-12-05,2026-09-07,48,4,19280.0,0,0,12
+OPP-0267,Account 024,Morgan Davis,East,Financial Services,Webinar,Closed Won,28800,1.0,Closed,2026-03-30,2026-06-01,2026-07-25,165,48,28800.0,0,0,51
+OPP-0268,Account 120,Jordan Lee,East,Manufacturing,Outbound,Closed Lost,35200,0.0,Omitted,2026-07-11,2026-08-16,2026-08-05,62,37,0.0,0,0,52
+OPP-0269,Account 070,Morgan Davis,Central,Healthcare,Partner,Negotiation,43600,0.8,Commit,2026-02-25,2026-12-01,2026-08-21,198,21,34880.0,1,0,40
+OPP-0270,Account 147,Casey Brown,East,Retail,Inbound,Prospecting,155900,0.1,Pipeline,2026-02-15,2026-11-01,2026-09-11,208,0,15590.0,0,0,42
+OPP-0271,Account 085,Riley Wilson,East,Healthcare,Paid Search,Closed Won,54100,1.0,Closed,2026-03-20,2026-05-18,2026-09-04,175,7,54100.0,0,0,25
+OPP-0272,Account 171,Taylor Smith,West,Manufacturing,Referral,Discovery,85200,0.4,Best Case,2026-02-15,2026-12-14,2026-07-20,208,53,34080.0,1,0,71
+OPP-0273,Account 066,Riley Wilson,East,Retail,Inbound,Closed Won,282900,1.0,Closed,2026-04-07,2026-08-21,2026-07-19,157,54,282900.0,0,0,54
+OPP-0274,Account 058,Taylor Smith,East,Manufacturing,Inbound,Discovery,168100,0.4,Best Case,2026-07-11,2026-12-18,2026-09-06,62,5,67240.0,0,0,22
+OPP-0275,Account 077,Avery Johnson,East,Manufacturing,Inbound,Closed Won,13800,1.0,Closed,2026-04-06,2026-08-09,2026-09-11,158,0,13800.0,0,0,18
+OPP-0276,Account 026,Avery Johnson,Central,Professional Services,Referral,Qualification,135300,0.2,Pipeline,2026-05-11,2026-11-23,2026-08-06,123,36,27060.0,1,0,54
+OPP-0277,Account 114,Morgan Davis,Central,Professional Services,Partner,Closed Won,112200,1.0,Closed,2026-08-12,2026-09-07,2026-08-12,30,30,112200.0,0,0,23
+OPP-0278,Account 012,Casey Brown,Central,Financial Services,Referral,Qualification,26500,0.2,Pipeline,2026-07-22,2026-12-07,2026-08-26,51,16,5300.0,0,0,32
+OPP-0279,Account 133,Riley Wilson,East,Technology,Outbound,Closed Lost,130500,0.0,Omitted,2026-03-15,2026-07-14,2026-08-19,180,23,0.0,0,0,56
+OPP-0280,Account 156,Casey Brown,Central,Financial Services,Referral,Proposal,17400,0.6,Best Case,2026-06-29,2026-09-17,2026-07-26,74,47,10440.0,1,0,48
+OPP-0281,Account 084,Jordan Lee,West,Financial Services,Outbound,Closed Won,129700,1.0,Closed,2026-03-02,2026-07-11,2026-07-28,193,45,129700.0,0,0,52
+OPP-0282,Account 051,Riley Wilson,West,Healthcare,Paid Search,Qualification,14500,0.2,Pipeline,2026-06-18,2026-11-01,2026-08-29,85,13,2900.0,0,0,34
+OPP-0283,Account 065,Casey Brown,West,Manufacturing,Webinar,Qualification,15800,0.2,Pipeline,2026-04-18,2026-11-12,2026-07-14,146,59,3160.0,1,0,72
+OPP-0284,Account 102,Riley Wilson,East,Retail,Referral,Closed Lost,26200,0.0,Omitted,2026-05-17,2026-08-29,2026-07-23,117,50,0.0,0,0,67
+OPP-0285,Account 009,Taylor Smith,Central,Healthcare,Paid Search,Prospecting,14300,0.1,Pipeline,2026-07-09,2026-08-29,2026-08-06,64,36,1430.0,1,1,74
+OPP-0286,Account 148,Riley Wilson,Central,Healthcare,Paid Search,Closed Won,26900,1.0,Closed,2026-08-27,2026-07-14,2026-09-05,15,6,26900.0,0,0,6
+OPP-0287,Account 137,Casey Brown,Central,Professional Services,Webinar,Negotiation,15800,0.8,Commit,2026-04-25,2026-09-20,2026-08-30,139,12,12640.0,0,0,28
+OPP-0288,Account 030,Morgan Davis,West,Healthcare,Outbound,Closed Lost,53200,0.0,Omitted,2026-05-20,2026-07-27,2026-08-06,114,36,0.0,0,0,57
+OPP-0289,Account 095,Casey Brown,East,Financial Services,Referral,Closed Won,16300,1.0,Closed,2026-05-28,2026-08-28,2026-09-03,106,8,16300.0,0,0,17
+OPP-0290,Account 127,Jordan Lee,East,Manufacturing,Inbound,Closed Won,32100,1.0,Closed,2026-06-18,2026-07-24,2026-09-04,85,7,32100.0,0,0,14
+OPP-0291,Account 156,Casey Brown,Central,Professional Services,Outbound,Discovery,85700,0.4,Best Case,2026-06-18,2026-10-26,2026-09-10,85,1,34280.0,0,0,22
+OPP-0292,Account 057,Riley Wilson,West,Healthcare,Partner,Discovery,92600,0.4,Best Case,2026-04-02,2026-08-27,2026-09-06,162,5,37040.0,0,1,59
+OPP-0293,Account 012,Jordan Lee,East,Technology,Referral,Discovery,105000,0.4,Best Case,2026-04-10,2026-08-31,2026-07-17,154,56,42000.0,1,1,92
+OPP-0294,Account 086,Jordan Lee,West,Manufacturing,Partner,Negotiation,52400,0.8,Commit,2026-06-01,2026-12-20,2026-09-08,102,3,41920.0,0,0,18
+OPP-0295,Account 040,Taylor Smith,East,Retail,Outbound,Prospecting,90300,0.1,Pipeline,2026-03-07,2026-09-08,2026-07-23,188,50,9030.0,1,1,98
+OPP-0296,Account 046,Jordan Lee,East,Healthcare,Paid Search,Closed Won,80600,1.0,Closed,2026-07-04,2026-08-21,2026-07-21,69,52,80600.0,0,0,43
+OPP-0297,Account 010,Riley Wilson,Central,Technology,Inbound,Negotiation,52100,0.8,Commit,2026-07-25,2026-10-18,2026-08-10,48,32,41680.0,1,0,31
+OPP-0298,Account 135,Avery Johnson,Central,Manufacturing,Inbound,Closed Won,78600,1.0,Closed,2026-03-20,2026-06-24,2026-08-02,175,40,78600.0,0,0,47
+OPP-0299,Account 132,Morgan Davis,East,Financial Services,Inbound,Discovery,30800,0.4,Best Case,2026-03-12,2026-10-27,2026-07-23,183,50,12320.0,1,0,66
+OPP-0300,Account 097,Taylor Smith,Central,Healthcare,Partner,Prospecting,189800,0.1,Pipeline,2026-06-27,2026-09-29,2026-07-14,76,59,18980.0,1,0,66
