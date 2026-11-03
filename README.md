@@ -26,6 +26,21 @@
 
 ---
 
+## Reproducible product analytics checks
+
+[![Product analytics tests](https://github.com/JamieChristian22/product-analyst-portfolio/actions/workflows/product-analytics-tests.yml/badge.svg)](https://github.com/JamieChristian22/product-analyst-portfolio/actions/workflows/product-analytics-tests.yml)
+
+The [funnel regression suite](./tests/test_funnel_evidence.py) covers zero-purchase AOV, invalid or empty statistical cohorts, two-proportion z-test boundary conditions, and independent arithmetic checks against the committed [funnel outputs](./01_ecommerce_funnel_optimization/outputs/funnel_overall.csv).
+
+```bash
+python -m pip install -r 01_ecommerce_funnel_optimization/python/requirements.txt
+python -m unittest discover -s tests -v
+```
+
+These automated checks currently cover **Project 01's published funnel evidence and underlying Python math**, not the other five projects' native Tableau/Excel reports. All data is portfolio evidence; observational comparisons do not establish causal uplift.
+
+---
+
 # 🧭 Portfolio Mission
 
 Welcome to my **Product Analyst Portfolio**.
