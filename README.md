@@ -586,3 +586,7 @@ The objective is to demonstrate analytical methodology, product thinking, busine
 **Jamie Christian II**
 
 </div>
+
+## License and third-party materials
+
+See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
