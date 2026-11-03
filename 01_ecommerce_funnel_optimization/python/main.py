@@ -77,7 +77,7 @@ def metrics(df):
         "checkout_to_purchase_pct": purchase/checkout*100 if checkout else 0,
         "overall_conversion_pct": purchase/viewed*100 if viewed else 0,
         "revenue": revenue,
-        "aov": float(df.loc[df.purchased.eq(1),"revenue"].mean()),
+        "aov": float(df.loc[df.purchased.eq(1),"revenue"].mean()) if purchase else 0.0,
         "revenue_per_session": revenue/viewed if viewed else 0,
     }
 
@@ -88,10 +88,23 @@ def segment_table(sessions, column):
     return pd.DataFrame(records).sort_values("overall_conversion_pct", ascending=False)
 
 def ztest_two_proportions(success_a, n_a, success_b, n_b):
+    """Validate independent-binomial inputs; zero variance means no observed difference.
+
+    These tests describe observed cohorts, not randomized causal evidence.
+    """
+    if any(not isinstance(n, (int, float)) or not math.isfinite(n)
+           for n in (success_a, n_a, success_b, n_b)):
+        raise ValueError("Counts must be finite numbers")
+    if any(int(n) != n for n in (success_a, n_a, success_b, n_b)):
+        raise ValueError("Counts must be whole numbers")
+    if n_a <= 0 or n_b <= 0 or not (0 <= success_a <= n_a) or not (0 <= success_b <= n_b):
+        raise ValueError("Both cohorts must be nonempty, with successes within cohort size")
     pooled=(success_a+success_b)/(n_a+n_b)
-    se=math.sqrt(pooled*(1-pooled)*(1/n_a+1/n_b))
-    z=((success_a/n_a)-(success_b/n_b))/se
-    p=2*(1-stats.norm.cdf(abs(z)))
+    variance=pooled*(1-pooled)*(1/n_a+1/n_b)
+    if variance == 0:
+        return 0.0, 1.0
+    z=((success_a/n_a)-(success_b/n_b))/math.sqrt(variance)
+    p=2*stats.norm.sf(abs(z))
     return z,p
 
 def main():
