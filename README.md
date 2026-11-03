@@ -47,6 +47,23 @@ The goal is to answer four questions:
 
 ---
 
+## Explore the six projects — direct evidence links
+
+| Project | Review the analysis | Visual preview |
+|---|---|---|
+| E-commerce funnel | [Project 01](./01_ecommerce_funnel_optimization/README.md) | [Funnel graphic](./01_ecommerce_funnel_optimization/screenshots/ecommerce_funnel.png) |
+| StreamFlow SaaS | [Project 02](./02_streamflow_saas_product_analytics/README.md) | [Product overview](./02_streamflow_saas_product_analytics/screenshots/streamflow_overview.png) |
+| User journey | [Project 03](./03_user_journey_first_purchase/README.md) | [Journey graphic](./03_user_journey_first_purchase/screenshots/user_journey.png) |
+| Conversion and retention KPIs | [Project 04](./04_conversion_retention_revenue_kpis/README.md) | [KPI preview](./04_conversion_retention_revenue_kpis/screenshots/kpi_overview.png) |
+| Conversion and revenue analysis | [Project 05](./05_conversion_funnel_revenue_analysis/README.md) | [Dashboard preview](./05_conversion_funnel_revenue_analysis/screenshots/dashboard_overview.png) |
+| Salesforce pipeline | [Project 06](./06_Salesforce_Project/README.md) | [Pipeline dashboard](./06_Salesforce_Project/Images/salesforce_sales_pipeline_kpi_report_final.png) |
+
+Also review the [product decision center](./Analysis_and_Insights/README.md) and [cross-functional business competencies](./Business_Competencies/README.md).
+
+**Evidence standard:** Portfolio scenarios and metrics may be simulated or modeled. Projects should distinguish source observations, assumptions, proposed experiments, and measured results.
+
+---
+
 # 🏗️ The Portfolio Architecture
 
 This portfolio is intentionally organized into **three professional layers**.
