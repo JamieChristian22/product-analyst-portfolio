@@ -594,3 +594,9 @@ See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, i
 ## Reviewer guide and asset provenance
 
 For a guided project review and sample dataset/media provenance checks, see [REVIEWER_GUIDE.md](REVIEWER_GUIDE.md). Asset listings do not establish ownership or license clearance.
+
+## Ordered conversion and revenue attribution
+
+Run `python 05_conversion_funnel_revenue_analysis/python/analysis.py` to build a new ordered user journey from the synthetic event dataset. Purchases only count as conversions after **view → add to cart → checkout → purchase**, and each user is attributed to the device/channel/country on their first qualifying view. Repeated purchases contribute revenue but do not increase converted-user counts.
+
+Outputs include `ordered_funnel_python.csv`, segment-level performance files, and `ordered_funnel_diagnostics.json`. The [regression tests](tests/test_ordered_funnel.py) verify skipped stages, retry/out-of-order events, and revenue attribution; the [CI workflow](.github/workflows/product-analytics-tests.yml) generates artifacts. This analysis treats one user as one journey and does not establish causal lift.
