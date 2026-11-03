@@ -24,5 +24,18 @@ jobs:
         run: python -m pip install -r 01_ecommerce_funnel_optimization/python/requirements.txt
       - name: Validate Python scripts and committed funnel evidence
         run: |
-          python -m compileall -q 01_ecommerce_funnel_optimization/python tests
+          python -m compileall -q 01_ecommerce_funnel_optimization/python 05_conversion_funnel_revenue_analysis/python tests
           python -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Rebuild source-backed ordered conversion funnel
+        run: python 05_conversion_funnel_revenue_analysis/python/analysis.py
+      - name: Upload ordered funnel and segment evidence
+        if: always()
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        with:
+          name: ordered-product-funnel
+          retention-days: 14
+          if-no-files-found: warn
+          path: |
+            05_conversion_funnel_revenue_analysis/outputs/ordered_funnel_python.csv
+            05_conversion_funnel_revenue_analysis/outputs/ordered_funnel_diagnostics.json
+            05_conversion_funnel_revenue_analysis/outputs/*_performance_python.csv
