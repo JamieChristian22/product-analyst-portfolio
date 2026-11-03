@@ -1,0 +1,58 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 2
+    groups:
+      action-updates:
+        patterns: ["*"]
+  - package-ecosystem: pip
+    directory: "/01_ecommerce_funnel_optimization/python"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 1
+    groups:
+      python-dependencies:
+        patterns: ["*"]
+  - package-ecosystem: pip
+    directory: "/02_streamflow_saas_product_analytics/python"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 1
+    groups:
+      python-dependencies:
+        patterns: ["*"]
+  - package-ecosystem: pip
+    directory: "/03_user_journey_first_purchase/python"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 1
+    groups:
+      python-dependencies:
+        patterns: ["*"]
+  - package-ecosystem: pip
+    directory: "/04_conversion_retention_revenue_kpis/python"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 1
+    groups:
+      python-dependencies:
+        patterns: ["*"]
+  - package-ecosystem: pip
+    directory: "/05_conversion_funnel_revenue_analysis/python"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 1
+    groups:
+      python-dependencies:
+        patterns: ["*"]
+  - package-ecosystem: pip
+    directory: "/06_Salesforce_Project/Python"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 1
+    groups:
+      python-dependencies:
+        patterns: ["*"]
